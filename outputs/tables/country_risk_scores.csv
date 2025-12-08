@@ -1,0 +1,187 @@
+incident_country,risk_score
+Indonesia,245.89020847182047
+India,143.39748851632288
+Madagascar,141.97736226950988
+Mexico,139.8592798480761
+Brazil,134.45446297024853
+China,107.92582206741076
+Malaysia,99.20282262444351
+Colombia,89.32250503460877
+Thailand,85.19156707866708
+Australia,85.02627858475124
+Viet Nam,79.27391667737086
+Cameroon,70.95992305758196
+Peru,67.5776020607278
+Myanmar,65.16986864605059
+Ecuador,65.05520778789037
+Philippines,64.57295137837954
+South Africa,58.429435806048794
+Cambodia,53.67211660188609
+Japan,52.89029212051364
+Argentina,50.49561813052202
+Nigeria,48.57101354885491
+Guinea,48.49852135723711
+Kenya,47.7185493202161
+Bangladesh,47.05011224827099
+Sri Lanka,46.94798573922674
+Cote d'Ivoire,45.6172429051784
+Russian Federation,44.03010883265377
+Uganda,42.537199581019706
+Pakistan,40.11589287360496
+Liberia,38.9201150083971
+Ghana,35.5709437970247
+Mozambique,35.36044662627597
+Panama,35.157645027305286
+Spain,34.744661400025635
+Guatemala,34.278395642171695
+Angola,34.17124332318493
+Senegal,33.77878161596878
+Gabon,33.170878994101045
+Nepal,31.06514246046746
+Portugal,28.70821608064201
+Greece,28.26954516325852
+Morocco,27.98790607019911
+Canada,27.022119802444546
+Chile,25.54023049854006
+Saudi Arabia,25.057471913984884
+Singapore,24.882988956666452
+Rwanda,24.591244566418055
+Israel,24.45514332089953
+Togo,24.247993669372597
+Costa Rica,23.973704228872784
+Guyana,23.833787882621024
+France,23.4339457460666
+Namibia,23.35610878531233
+Sudan,22.36970326443776
+Honduras,22.27546317653033
+Somalia,21.893332209394842
+Algeria,21.632900427293627
+Croatia,21.39267923957037
+Tunisia,21.021058411611698
+Italy,20.77476865357016
+Belize,20.570153020535145
+New Zealand,20.422739585372575
+Kazakhstan,20.415790958046593
+Benin,20.348958678005037
+Oman,19.9697319778164
+Uruguay,19.11495154006894
+Zambia,17.59141888793661
+Malawi,17.33846486823017
+Ukraine,16.759787905046853
+Jordan,16.61683918201306
+Central African Republic,16.225194792281002
+Libya,15.8197786269442
+Dominican Republic,15.530627177957115
+Lebanon,15.221078101987494
+Nicaragua,15.105817735726442
+Seychelles,15.070838649163502
+Trinidad and Tobago,14.969529457603338
+Suriname,14.955391250297875
+Mali,14.225478117710328
+South Sudan,14.090007157071314
+Mauritius,12.898857893326548
+Bulgaria,12.565844220059468
+Qatar,12.32906406786029
+United Arab Emirates,11.954002204377536
+Germany,11.756957850039585
+Botswana,11.483703536407113
+Ireland,11.290692092185648
+Zimbabwe,11.145933151841746
+Burkina Faso,11.112674583040846
+Azerbaijan,11.027543075742157
+Paraguay,10.74609101528732
+Cyprus,10.539844564038336
+Comoros,9.198681290361264
+El Salvador,9.19383106276069
+Sao Tome and Principe,9.173807500987305
+Armenia,8.866481117824058
+Netherlands,7.349702426904701
+Malta,6.356819676969808
+Poland,5.904917569313019
+Belgium,5.834145895457265
+Denmark,5.814935834413756
+Austria,5.617393121785687
+Switzerland,5.0055511061037565
+Sweden,4.430502211049092
+Estonia,2.3939924158511516
+Andorra,2.012858165295902
+Afghanistan,
+Aland Islands,
+Albania,
+Bahamas,
+Belarus,
+Bhutan,
+Bolivia (Plurinational State of),
+"Bonaire, Sint Eustatius and Saba",
+Brunei Darussalam,
+Burundi,
+Cape Verde,
+Cayman Islands,
+Chad,
+Congo,
+"Congo, Democratic Republic of The",
+Cuba,
+Czech Republic,
+Djibouti,
+Egypt,
+Equatorial Guinea,
+Eswatini,
+Ethiopia,
+Fiji,
+Finland,
+French Guiana,
+French Polynesia,
+French Southern Territories,
+Gambia,
+Georgia,
+Guadeloupe,
+Guam,
+Guinea-Bissau,
+Hong Kong,
+Hungary,
+Iceland,
+"Iran, Islamic Republic of",
+Iraq,
+Jamaica,
+"Korea, Republic of",
+"Kosovo, Republic of",
+Kuwait,
+Kyrgyzstan,
+Lao People's Democratic Republic,
+Latvia,
+Lithuania,
+Macau,
+Macedonia,
+Maldives,
+Martinique,
+Mauritania,
+Mayotte,
+Mongolia,
+Montenegro,
+Multiple,
+New Caledonia,
+Niger,
+Northern Mariana Islands,
+Norway,
+Palau,
+Papua New Guinea,
+Puerto Rico,
+Reunion,
+Romania,
+Saint Barthelemy,
+Saint Vincent and The Grenadines,
+"Serbia, Republic of",
+Sierra Leone,
+Slovakia,
+Slovenia,
+Solomon Islands,
+Taiwan Province of China,
+"Tanzania, United Republic of",
+Turkey,
+United Kingdom of Great Britain and Northern Ireland,
+United States of America,
+Uzbekistan,
+Vanuatu,
+"Venezuela, Bolivarian Republic of",
+Virgin Islands (U.S.),
+Yemen,

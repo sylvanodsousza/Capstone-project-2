@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         incident_count   R-squared:                       0.033
+Model:                            OLS   Adj. R-squared:                  0.031
+Method:                 Least Squares   F-statistic:                     21.63
+Date:                Sun, 07 Dec 2025   Prob (F-statistic):           8.88e-14
+Time:                        22:15:23   Log-Likelihood:                -11374.
+No. Observations:                1926   AIC:                         2.276e+04
+Df Residuals:                    1922   BIC:                         2.278e+04
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                 31.5184      2.080     15.152      0.000      27.439      35.598
+threatened_mammals     0.9212      0.422      2.182      0.029       0.093       1.749
+threatened_birds       0.0568      0.335      0.170      0.865      -0.600       0.713
+threatened_fish        0.1923      0.164      1.174      0.241      -0.129       0.513
+==============================================================================
+Omnibus:                     2078.615   Durbin-Watson:                   0.445
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           132797.966
+Skew:                           5.435   Prob(JB):                         0.00
+Kurtosis:                      42.200   Cond. No.                         32.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,11 +1,9 @@
 import pandas as pd
 
-df = pd.read_csv("data/incident-summary-and-locations-3322.csv")
+mam = pd.read_csv("data/WB_WDI_EN_MAM_THRD_NO.csv")
+bird = pd.read_csv("data/WB_WDI_EN_BIR_THRD_NO.csv")
+fish = pd.read_csv("data/WB_WDI_EN_FSH_THRD_NO.csv")
 
-print("\nUnique values in 'Role':")
-print(df["Role"].dropna().unique())
-
-print("\nSample of Role & Country columns:")
-print(df[["Report ID", "Role", "Country"]].head(20))
-
-
+print("\nMAM COLUMNS:\n", mam.columns.tolist())
+print("\nBIRD COLUMNS:\n", bird.columns.tolist())
+print("\nFISH COLUMNS:\n", fish.columns.tolist())
