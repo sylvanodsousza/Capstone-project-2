@@ -1,0 +1,705 @@
+origin_country,destination_country,count
+Afghanistan,Pakistan,3
+Albania,Albania,10
+Albania,Italy,3
+Algeria,China,4
+Algeria,France,3
+Algeria,Tunisia,15
+Angola,Angola,181
+Angola,Cambodia,15
+Angola,China,8
+Angola,Germany,4
+Angola,Lao People's Democratic Republic,25
+Angola,Thailand,8
+Angola,Viet Nam,62
+Argentina,Argentina,31
+Argentina,Malta,3
+Australia,Australia,28
+Australia,China,4
+Australia,Hong Kong,12
+Australia,Japan,6
+Australia,Philippines,16
+Australia,Singapore,16
+Australia,South Africa,11
+Australia,Sweden,10
+Australia,Thailand,17
+Australia,United Kingdom of Great Britain and Northern Ireland,3
+Australia,United States of America,6
+Austria,Iceland,4
+Austria,Mexico,4
+Austria,Russian Federation,4
+Azerbaijan,Qatar,3
+Bahamas,Germany,10
+Bangladesh,Bangladesh,33
+Bangladesh,China,6
+Bangladesh,Hong Kong,14
+Bangladesh,India,23
+Bangladesh,Indonesia,8
+Bangladesh,Japan,4
+Bangladesh,Malaysia,4
+Bangladesh,Thailand,4
+Belize,China,4
+Benin,Cambodia,4
+Benin,Canada,5
+Benin,Cote d'Ivoire,5
+Benin,Thailand,4
+Bhutan,China,10
+Bhutan,India,4
+Bhutan,Nepal,4
+Bolivia (Plurinational State of),Belgium,5
+Bolivia (Plurinational State of),Bolivia (Plurinational State of),3
+Bolivia (Plurinational State of),Brazil,3
+Bolivia (Plurinational State of),Slovakia,5
+Bolivia (Plurinational State of),Sweden,4
+Bolivia (Plurinational State of),United States of America,4
+Bosnia and Herzegovina,Croatia,4
+Botswana,South Africa,4
+Botswana,Zambia,22
+Brazil,Brazil,386
+Brazil,Colombia,7
+Brazil,Hong Kong,4
+Brazil,Portugal,6
+Brazil,Russian Federation,22
+Brazil,Suriname,4
+Brazil,Taiwan Province of China,4
+Brazil,United Kingdom of Great Britain and Northern Ireland,8
+Brazil,United States of America,14
+Bulgaria,Bulgaria,7
+Bulgaria,Malaysia,4
+Bulgaria,United Arab Emirates,7
+Bulgaria,United States of America,18
+Burkina Faso,China,4
+Burkina Faso,Cote d'Ivoire,4
+Burkina Faso,Nigeria,3
+Burundi,Brazil,4
+Burundi,China,16
+Burundi,Czech Republic,5
+Burundi,France,12
+Burundi,Italy,16
+Burundi,Philippines,4
+Burundi,Singapore,12
+Burundi,Taiwan Province of China,8
+Cambodia,Cambodia,131
+Cambodia,China,10
+Cambodia,Thailand,16
+Cambodia,United States of America,10
+Cambodia,Viet Nam,118
+Cameroon,Belgium,12
+Cameroon,Cameroon,33
+Cameroon,Cape Verde,4
+Cameroon,China,29
+Cameroon,Congo,2
+Cameroon,France,3
+Cameroon,Hong Kong,12
+Cameroon,Italy,3
+Cameroon,Malaysia,8
+Cameroon,Nigeria,10
+Cameroon,Poland,4
+Cameroon,Senegal,3
+Cameroon,Spain,8
+Cameroon,Switzerland,4
+Cameroon,Thailand,4
+Cameroon,United Kingdom of Great Britain and Northern Ireland,5
+Cameroon,United States of America,21
+Cameroon,Viet Nam,13
+Canada,Canada,12
+Canada,China,9
+Canada,Italy,4
+Canada,Mexico,4
+Canada,United States of America,20
+Cayman Islands,Germany,5
+Central African Republic,Cameroon,14
+Central African Republic,China,4
+Central African Republic,France,6
+Central African Republic,Indonesia,7
+Chad,Viet Nam,9
+Chile,Brazil,5
+Chile,United States of America,2
+China,Belgium,6
+China,Bulgaria,3
+China,Canada,8
+China,China,558
+China,France,4
+China,Ghana,4
+China,Hong Kong,4
+China,India,16
+China,Italy,3
+China,Mauritania,3
+China,Nepal,8
+China,Russian Federation,4
+China,South Africa,4
+China,United Kingdom of Great Britain and Northern Ireland,8
+China,United States of America,10
+Colombia,Brazil,5
+Colombia,Canada,9
+Colombia,Colombia,49
+Colombia,Germany,4
+Colombia,Hong Kong,12
+Colombia,"Iran, Islamic Republic of",4
+Colombia,Spain,4
+Colombia,United States of America,25
+Congo,China,12
+Congo,Congo,10
+Congo,Ghana,4
+Congo,Iraq,4
+Congo,Italy,4
+Congo,Lebanon,4
+Congo,Nigeria,5
+Congo,Viet Nam,9
+"Congo, Democratic Republic of The",Belgium,14
+"Congo, Democratic Republic of The",China,71
+"Congo, Democratic Republic of The",Hong Kong,15
+"Congo, Democratic Republic of The",Iraq,4
+"Congo, Democratic Republic of The",Italy,8
+"Congo, Democratic Republic of The",Lao People's Democratic Republic,4
+"Congo, Democratic Republic of The",Macau,6
+"Congo, Democratic Republic of The",Malaysia,12
+"Congo, Democratic Republic of The",Namibia,4
+"Congo, Democratic Republic of The",Nigeria,5
+"Congo, Democratic Republic of The",Romania,9
+"Congo, Democratic Republic of The",Russian Federation,2
+"Congo, Democratic Republic of The",Spain,4
+"Congo, Democratic Republic of The",Thailand,5
+"Congo, Democratic Republic of The",Turkey,8
+"Congo, Democratic Republic of The",United Kingdom of Great Britain and Northern Ireland,4
+"Congo, Democratic Republic of The",United States of America,2
+"Congo, Democratic Republic of The",Viet Nam,34
+Cote d'Ivoire,Cambodia,10
+Cote d'Ivoire,China,24
+Cote d'Ivoire,Cote d'Ivoire,11
+Cote d'Ivoire,Hong Kong,8
+Cote d'Ivoire,United States of America,12
+Cote d'Ivoire,Viet Nam,4
+Croatia,Italy,3
+Cuba,China,3
+Cuba,Hong Kong,4
+Czech Republic,Germany,5
+Czech Republic,Latvia,4
+Czech Republic,Spain,4
+Czech Republic,Ukraine,4
+Czech Republic,Viet Nam,4
+Dominican Republic,Canada,9
+Dominican Republic,Italy,4
+Dominican Republic,United States of America,9
+Ecuador,China,4
+Ecuador,Ecuador,7
+Ecuador,Hong Kong,2
+Ecuador,Lithuania,4
+Ecuador,Peru,3
+Ecuador,Ukraine,4
+Egypt,Greece,3
+Egypt,Malta,3
+Equatorial Guinea,Cameroon,5
+Equatorial Guinea,China,4
+Equatorial Guinea,Nigeria,6
+Equatorial Guinea,Spain,10
+Eswatini,Hong Kong,6
+Ethiopia,Cambodia,4
+Ethiopia,Viet Nam,4
+Fiji,United Kingdom of Great Britain and Northern Ireland,3
+Finland,China,4
+France,Bhutan,4
+France,China,17
+France,Mayotte,4
+France,Philippines,4
+France,Singapore,4
+France,Thailand,4
+France,Viet Nam,17
+French Guiana,Brazil,4
+French Guiana,Suriname,4
+Gabon,Cameroon,19
+Gabon,Gabon,12
+Gabon,"Korea, Republic of",4
+Gabon,Nigeria,16
+Gabon,Viet Nam,19
+Gambia,China,4
+Germany,Brazil,4
+Germany,United States of America,12
+Ghana,Cote d'Ivoire,5
+Ghana,Ghana,2
+Ghana,Japan,4
+Ghana,United Kingdom of Great Britain and Northern Ireland,3
+Gibraltar,France,4
+Greece,Italy,4
+Guatemala,China,5
+Guinea,China,259
+Guinea,Lao People's Democratic Republic,4
+Guinea,Viet Nam,4
+Guyana,Malaysia,2
+Guyana,Ukraine,4
+Guyana,United States of America,14
+Haiti,Canada,9
+Haiti,United States of America,12
+Haiti,Viet Nam,4
+Honduras,Canada,9
+Honduras,United States of America,9
+Hong Kong,China,30
+Hong Kong,Hong Kong,6
+Hong Kong,Hungary,4
+Hong Kong,Macau,4
+Hong Kong,Philippines,4
+Hong Kong,Poland,3
+Hong Kong,United Kingdom of Great Britain and Northern Ireland,11
+Hong Kong,United States of America,17
+Hungary,United States of America,12
+Iceland,Japan,4
+Iceland,United States of America,12
+India,Bangladesh,61
+India,Bhutan,27
+India,Canada,4
+India,China,546
+India,Egypt,4
+India,France,3
+India,Greece,5
+India,Hong Kong,67
+India,India,863
+India,Indonesia,5
+India,Japan,9
+India,"Korea, Republic of",5
+India,Kuwait,4
+India,Malaysia,223
+India,Myanmar,35
+India,Nepal,115
+India,Poland,4
+India,Saudi Arabia,4
+India,Singapore,4
+India,Slovakia,4
+India,South Africa,4
+India,Sri Lanka,12
+India,Taiwan Province of China,4
+India,Thailand,29
+India,United Arab Emirates,125
+India,United Kingdom of Great Britain and Northern Ireland,12
+India,Viet Nam,27
+Indonesia,Canada,8
+Indonesia,China,111
+Indonesia,Czech Republic,5
+Indonesia,France,10
+Indonesia,Hong Kong,36
+Indonesia,India,4
+Indonesia,Indonesia,860
+Indonesia,Japan,13
+Indonesia,"Korea, Republic of",4
+Indonesia,Malaysia,105
+Indonesia,Netherlands,7
+Indonesia,Philippines,27
+Indonesia,Russian Federation,9
+Indonesia,Saudi Arabia,14
+Indonesia,Singapore,59
+Indonesia,Taiwan Province of China,4
+Indonesia,Thailand,30
+Indonesia,Timor-Leste,4
+Indonesia,Turkey,4
+Indonesia,Ukraine,5
+Indonesia,United Kingdom of Great Britain and Northern Ireland,6
+Indonesia,United States of America,22
+Indonesia,Viet Nam,56
+"Iran, Islamic Republic of",India,4
+Italy,Denmark,4
+Italy,France,4
+Italy,Israel,3
+Italy,Russian Federation,5
+Italy,United States of America,12
+Jamaica,Slovakia,5
+Japan,China,38
+Japan,Japan,5
+Japan,Lao People's Democratic Republic,4
+Kazakhstan,China,9
+Kazakhstan,Germany,8
+Kazakhstan,Kazakhstan,4
+Kenya,Belgium,4
+Kenya,Cambodia,13
+Kenya,China,14
+Kenya,France,4
+Kenya,Hong Kong,13
+Kenya,Kenya,37
+Kenya,Lao People's Democratic Republic,7
+Kenya,Malaysia,4
+Kenya,Nigeria,4
+Kenya,Russian Federation,4
+Kenya,Thailand,4
+Kenya,Uganda,5
+Kenya,United Arab Emirates,4
+Kenya,United States of America,4
+Kenya,Viet Nam,11
+"Korea, Republic of",China,4
+"Korea, Republic of",Estonia,3
+Kyrgyzstan,United States of America,3
+Lao People's Democratic Republic,China,48
+Lao People's Democratic Republic,Lao People's Democratic Republic,4
+Lao People's Democratic Republic,Thailand,13
+Lao People's Democratic Republic,Viet Nam,105
+Latvia,Cyprus,4
+Liberia,China,80
+Liberia,Guinea,6
+Liberia,Hong Kong,8
+Liberia,Liberia,27
+Liberia,United States of America,4
+Lithuania,United States of America,12
+Madagascar,China,34
+Madagascar,Egypt,4
+Madagascar,Hong Kong,18
+Madagascar,"Korea, Republic of",9
+Madagascar,Lao People's Democratic Republic,4
+Madagascar,Madagascar,9
+Madagascar,Malaysia,9
+Madagascar,Nepal,5
+Madagascar,Reunion,3
+Madagascar,Taiwan Province of China,9
+Madagascar,"Tanzania, United Republic of",10
+Madagascar,Thailand,9
+Madagascar,United States of America,4
+Madagascar,Viet Nam,8
+Malawi,China,4
+Malawi,Malawi,5
+Malawi,Thailand,4
+Malaysia,China,74
+Malaysia,Hong Kong,23
+Malaysia,India,4
+Malaysia,Indonesia,39
+Malaysia,Japan,4
+Malaysia,Lao People's Democratic Republic,13
+Malaysia,Malaysia,39
+Malaysia,Philippines,33
+Malaysia,Singapore,12
+Malaysia,Thailand,27
+Malaysia,Viet Nam,30
+Mali,China,8
+Mali,Senegal,3
+Mali,Togo,4
+Malta,United States of America,12
+Mexico,China,61
+Mexico,Hong Kong,14
+Mexico,Mexico,264
+Mexico,Russian Federation,7
+Mexico,South Africa,4
+Mexico,Spain,10
+Mexico,Sweden,4
+Mexico,United States of America,27
+Mexico,Viet Nam,4
+Mongolia,Austria,8
+Morocco,Belgium,7
+Morocco,Mauritania,4
+Mozambique,Cambodia,8
+Mozambique,China,52
+Mozambique,Hong Kong,14
+Mozambique,Lao People's Democratic Republic,19
+Mozambique,Malaysia,5
+Mozambique,Mozambique,61
+Mozambique,South Africa,16
+Mozambique,"Tanzania, United Republic of",4
+Mozambique,Thailand,8
+Mozambique,United Kingdom of Great Britain and Northern Ireland,4
+Mozambique,Viet Nam,55
+Mozambique,Zimbabwe,4
+Myanmar,Belgium,2
+Myanmar,China,59
+Myanmar,India,13
+Myanmar,Malaysia,3
+Myanmar,Myanmar,51
+Myanmar,Netherlands,2
+Myanmar,Thailand,8
+Namibia,Angola,8
+Namibia,China,3
+Namibia,Malaysia,5
+Namibia,Namibia,5
+Namibia,Spain,3
+Nepal,Bangladesh,4
+Nepal,China,55
+Nepal,India,20
+Nepal,"Korea, Republic of",5
+Nepal,Nepal,34
+Nepal,Netherlands,3
+Netherlands,United Kingdom of Great Britain and Northern Ireland,4
+Netherlands,United States of America,8
+New Zealand,Viet Nam,4
+Nicaragua,Nicaragua,4
+Nicaragua,Taiwan Province of China,4
+Niger,China,4
+Niger,Nigeria,2
+Niger,United States of America,4
+Nigeria,Belgium,6
+Nigeria,Cambodia,4
+Nigeria,China,156
+Nigeria,Cote d'Ivoire,7
+Nigeria,France,10
+Nigeria,Germany,10
+Nigeria,Hong Kong,54
+Nigeria,India,11
+Nigeria,Lao People's Democratic Republic,14
+Nigeria,Malaysia,6
+Nigeria,Thailand,20
+Nigeria,United Kingdom of Great Britain and Northern Ireland,4
+Nigeria,United States of America,12
+Nigeria,Viet Nam,60
+Norway,China,3
+Norway,Philippines,4
+Pakistan,Afghanistan,4
+Pakistan,China,17
+Pakistan,Hong Kong,5
+Pakistan,"Iran, Islamic Republic of",3
+Pakistan,Malaysia,5
+Pakistan,Pakistan,136
+Pakistan,Qatar,2
+Pakistan,Thailand,4
+Panama,Hong Kong,4
+Panama,Panama,4
+Panama,Spain,3
+Panama,Ukraine,4
+Papua New Guinea,Philippines,6
+Paraguay,Paraguay,4
+Paraguay,United Kingdom of Great Britain and Northern Ireland,4
+Peru,Belgium,3
+Peru,Bolivia (Plurinational State of),3
+Peru,Brazil,4
+Peru,China,26
+Peru,Germany,7
+Peru,Hong Kong,4
+Peru,Peru,105
+Peru,Russian Federation,4
+Peru,United States of America,6
+Peru,Viet Nam,4
+Philippines,Argentina,4
+Philippines,Australia,11
+Philippines,Canada,8
+Philippines,China,30
+Philippines,Germany,5
+Philippines,India,8
+Philippines,Indonesia,6
+Philippines,Japan,3
+Philippines,"Korea, Republic of",4
+Philippines,Malaysia,4
+Philippines,Philippines,134
+Philippines,Singapore,11
+Philippines,South Africa,11
+Philippines,Taiwan Province of China,7
+Philippines,Thailand,11
+Philippines,United Arab Emirates,4
+Philippines,United States of America,3
+Philippines,Viet Nam,3
+Poland,Philippines,25
+Poland,Ukraine,3
+Poland,United States of America,5
+Portugal,China,5
+Portugal,France,10
+Portugal,Spain,4
+Puerto Rico,Dominican Republic,5
+Puerto Rico,United States of America,3
+Qatar,Thailand,4
+Romania,China,4
+Romania,Italy,4
+Russian Federation,China,35
+Russian Federation,Croatia,4
+Russian Federation,France,4
+Russian Federation,Germany,39
+Russian Federation,Greece,4
+Russian Federation,Italy,4
+Russian Federation,Kazakhstan,4
+Russian Federation,Latvia,15
+Russian Federation,Lithuania,4
+Russian Federation,Netherlands,5
+Russian Federation,Russian Federation,18
+Russian Federation,Syrian Arab Republic,4
+Russian Federation,United Kingdom of Great Britain and Northern Ireland,4
+Russian Federation,United States of America,23
+Rwanda,Belgium,4
+Rwanda,Japan,4
+Saudi Arabia,Syrian Arab Republic,4
+Senegal,Benin,4
+Senegal,China,20
+Senegal,Denmark,4
+Senegal,Lao People's Democratic Republic,4
+Senegal,Martinique,3
+Senegal,Senegal,4
+"Serbia, Republic of",China,4
+Sierra Leone,China,17
+Sierra Leone,Lebanon,4
+Sierra Leone,United States of America,4
+Singapore,Australia,11
+Singapore,China,5
+Singapore,Hong Kong,4
+Singapore,India,7
+Singapore,Philippines,11
+Singapore,Singapore,13
+Singapore,South Africa,11
+Singapore,Thailand,11
+Sint Maarten (Dutch),United States of America,2
+Solomon Islands,China,21
+Solomon Islands,Italy,5
+Somalia,United Arab Emirates,3
+South Africa,Australia,14
+South Africa,China,16
+South Africa,Germany,4
+South Africa,Hong Kong,10
+South Africa,Japan,4
+South Africa,Lao People's Democratic Republic,13
+South Africa,Lesotho,5
+South Africa,Malaysia,7
+South Africa,Mexico,4
+South Africa,Mozambique,27
+South Africa,Philippines,16
+South Africa,Russian Federation,4
+South Africa,Singapore,16
+South Africa,South Africa,123
+South Africa,Thailand,15
+South Africa,United Kingdom of Great Britain and Northern Ireland,6
+South Africa,United States of America,22
+South Africa,Viet Nam,90
+South Africa,Zambia,3
+South Africa,Zimbabwe,5
+South Sudan,South Sudan,8
+South Sudan,Uganda,4
+Spain,China,15
+Spain,Hong Kong,8
+Spain,Italy,3
+Spain,Morocco,3
+Spain,Switzerland,4
+Spain,Thailand,5
+Spain,United States of America,9
+Sri Lanka,Sri Lanka,12
+Sudan,Montenegro,16
+Suriname,Netherlands,3
+Sweden,Norway,3
+Switzerland,Germany,3
+Switzerland,Paraguay,4
+Syrian Arab Republic,Latvia,4
+Syrian Arab Republic,Saudi Arabia,4
+Taiwan Province of China,China,5
+Taiwan Province of China,Taiwan Province of China,4
+Taiwan Province of China,Thailand,4
+Taiwan Province of China,United States of America,2
+Taiwan Province of China,Virgin Islands (British),3
+Tajikistan,Russian Federation,3
+"Tanzania, United Republic of",China,46
+"Tanzania, United Republic of",Czech Republic,6
+"Tanzania, United Republic of",Germany,3
+"Tanzania, United Republic of",Hong Kong,13
+"Tanzania, United Republic of",Hungary,6
+"Tanzania, United Republic of",Indonesia,4
+"Tanzania, United Republic of",Kenya,4
+"Tanzania, United Republic of",Malawi,6
+"Tanzania, United Republic of",Philippines,10
+"Tanzania, United Republic of",Qatar,3
+"Tanzania, United Republic of","Tanzania, United Republic of",46
+"Tanzania, United Republic of",Thailand,11
+"Tanzania, United Republic of",Uganda,40
+"Tanzania, United Republic of",United Arab Emirates,6
+"Tanzania, United Republic of",United Kingdom of Great Britain and Northern Ireland,6
+"Tanzania, United Republic of",United States of America,5
+Thailand,Australia,11
+Thailand,Bulgaria,4
+Thailand,Cambodia,40
+Thailand,Canada,8
+Thailand,China,72
+Thailand,India,14
+Thailand,Indonesia,7
+Thailand,"Iran, Islamic Republic of",4
+Thailand,Japan,18
+Thailand,Lao People's Democratic Republic,101
+Thailand,Luxembourg,4
+Thailand,Myanmar,6
+Thailand,Philippines,11
+Thailand,Russian Federation,8
+Thailand,Singapore,11
+Thailand,South Africa,11
+Thailand,Thailand,171
+Thailand,United Arab Emirates,4
+Thailand,United Kingdom of Great Britain and Northern Ireland,6
+Thailand,United States of America,10
+Thailand,Viet Nam,23
+Togo,United Kingdom of Great Britain and Northern Ireland,6
+Tunisia,France,4
+Tunisia,Libya,4
+Turkey,Bulgaria,11
+Turkey,United Arab Emirates,7
+Turkey,United States of America,4
+Uganda,China,45
+Uganda,"Congo, Democratic Republic of The",4
+Uganda,Egypt,5
+Uganda,Germany,4
+Uganda,Hong Kong,8
+Uganda,Malaysia,11
+Uganda,"Serbia, Republic of",4
+Uganda,Singapore,4
+Uganda,Thailand,6
+Uganda,Turkey,8
+Uganda,Uganda,15
+Uganda,United States of America,4
+Uganda,Viet Nam,6
+Ukraine,Czech Republic,12
+Ukraine,Germany,16
+Ukraine,Italy,11
+Ukraine,Syrian Arab Republic,4
+Ukraine,United States of America,3
+United Arab Emirates,Belgium,4
+United Arab Emirates,China,8
+United Arab Emirates,India,4
+United Arab Emirates,Indonesia,4
+United Arab Emirates,Malaysia,4
+United Arab Emirates,Taiwan Province of China,4
+United Arab Emirates,United Kingdom of Great Britain and Northern Ireland,3
+United Arab Emirates,Viet Nam,4
+United Kingdom of Great Britain and Northern Ireland,Canada,4
+United Kingdom of Great Britain and Northern Ireland,China,18
+United Kingdom of Great Britain and Northern Ireland,India,3
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2
+United Kingdom of Great Britain and Northern Ireland,United States of America,22
+United States of America,Belgium,4
+United States of America,Brazil,4
+United States of America,Canada,5
+United States of America,Cayman Islands,2
+United States of America,China,272
+United States of America,Colombia,2
+United States of America,Germany,3
+United States of America,Greece,5
+United States of America,Hong Kong,55
+United States of America,Indonesia,8
+United States of America,Japan,11
+United States of America,"Korea, Republic of",21
+United States of America,Latvia,8
+United States of America,Mexico,9
+United States of America,Netherlands,3
+United States of America,Russian Federation,9
+United States of America,Taiwan Province of China,3
+United States of America,Thailand,8
+United States of America,United Kingdom of Great Britain and Northern Ireland,22
+United States of America,United States of America,119
+Uruguay,United States of America,12
+Uzbekistan,Kazakhstan,8
+"Venezuela, Bolivarian Republic of",Trinidad and Tobago,3
+Viet Nam,Cambodia,8
+Viet Nam,Canada,4
+Viet Nam,China,156
+Viet Nam,France,4
+Viet Nam,Germany,6
+Viet Nam,India,4
+Viet Nam,Indonesia,5
+Viet Nam,Mexico,5
+Viet Nam,Philippines,3
+Viet Nam,Russian Federation,4
+Viet Nam,Thailand,4
+Viet Nam,United States of America,13
+Viet Nam,Viet Nam,598
+Yemen,United Arab Emirates,4
+Zambia,Cambodia,5
+Zambia,China,7
+Zambia,France,5
+Zambia,Japan,7
+Zambia,Malaysia,5
+Zambia,South Africa,12
+Zambia,Thailand,5
+Zambia,United States of America,2
+Zambia,Viet Nam,11
+Zambia,Zambia,5
+Zimbabwe,Botswana,10
+Zimbabwe,China,22
+Zimbabwe,Czech Republic,6
+Zimbabwe,Mexico,4
+Zimbabwe,Mozambique,4
+Zimbabwe,Portugal,6
+Zimbabwe,South Africa,10
+Zimbabwe,Spain,6
+Zimbabwe,United States of America,12
+Zimbabwe,Viet Nam,8
+Zimbabwe,Zambia,2
+Zimbabwe,Zimbabwe,18

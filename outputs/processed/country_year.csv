@@ -1,236 +1,236 @@
-country,year,incident_count
+incident_country,year,incident_count
 Afghanistan,2007,1
 Afghanistan,2020,1
 Afghanistan,2023,1
-Aland Islands,2014,1
+Aland Islands,2014,2
 Albania,2021,1
-Albania,2024,1
-Algeria,2013,4
-Algeria,2014,2
-Algeria,2016,1
-Algeria,2017,2
+Albania,2024,10
+Algeria,2013,5
+Algeria,2014,4
+Algeria,2016,8
+Algeria,2017,16
 Algeria,2018,2
 Algeria,2020,2
 Andorra,2022,2
-Angola,2011,2
+Angola,2011,5
 Angola,2014,1
 Angola,2015,5
 Angola,2016,5
-Angola,2017,6
-Angola,2018,7
-Angola,2019,11
-Angola,2020,28
-Angola,2021,15
-Angola,2022,10
-Angola,2023,14
+Angola,2017,7
+Angola,2018,14
+Angola,2019,168
+Angola,2020,44
+Angola,2021,26
+Angola,2022,17
+Angola,2023,21
 Angola,2024,1
-Argentina,2007,1
-Argentina,2008,2
+Argentina,2007,4
+Argentina,2008,3
 Argentina,2009,3
 Argentina,2010,2
-Argentina,2011,2
+Argentina,2011,7
 Argentina,2012,1
-Argentina,2013,14
-Argentina,2014,9
-Argentina,2016,35
-Argentina,2017,9
+Argentina,2013,21
+Argentina,2014,11
+Argentina,2016,59
+Argentina,2017,11
 Argentina,2018,12
-Argentina,2019,3
-Argentina,2020,12
-Argentina,2021,7
-Argentina,2022,6
-Argentina,2023,25
-Argentina,2024,6
-Armenia,2010,2
+Argentina,2019,5
+Argentina,2020,14
+Argentina,2021,9
+Argentina,2022,7
+Argentina,2023,35
+Argentina,2024,8
+Armenia,2010,3
 Armenia,2013,1
 Armenia,2014,2
 Armenia,2017,2
 Armenia,2018,2
-Armenia,2019,5
+Armenia,2019,7
 Armenia,2020,4
 Armenia,2021,8
 Armenia,2022,6
-Australia,1986,1
-Australia,1998,1
-Australia,1999,1
-Australia,2002,2
-Australia,2003,3
-Australia,2004,4
-Australia,2005,1
-Australia,2006,2
+Australia,1986,3
+Australia,1998,2
+Australia,1999,2
+Australia,2002,24
+Australia,2003,4
+Australia,2004,8
+Australia,2005,2
+Australia,2006,3
 Australia,2007,1
-Australia,2008,4
-Australia,2009,7
-Australia,2010,6
-Australia,2011,13
-Australia,2012,5
-Australia,2013,5
-Australia,2014,11
-Australia,2015,3
-Australia,2016,9
-Australia,2017,10
-Australia,2018,17
-Australia,2019,14
-Australia,2020,7
-Australia,2021,5
-Australia,2023,4
-Australia,2024,4
-Austria,2011,3
-Austria,2013,1
-Austria,2014,2
+Australia,2008,8
+Australia,2009,284
+Australia,2010,13
+Australia,2011,17
+Australia,2012,11
+Australia,2013,7
+Australia,2014,15
+Australia,2015,5
+Australia,2016,32
+Australia,2017,17
+Australia,2018,36
+Australia,2019,36
+Australia,2020,15
+Australia,2021,8
+Australia,2023,12
+Australia,2024,7
+Austria,2011,7
+Austria,2013,2
+Austria,2014,3
 Austria,2016,1
 Austria,2018,1
-Austria,2019,2
-Austria,2021,1
-Austria,2023,2
-Azerbaijan,2018,1
+Austria,2019,6
+Austria,2021,6
+Austria,2023,5
+Azerbaijan,2018,3
 Bahamas,2018,1
 Bangladesh,2001,1
 Bangladesh,2008,1
-Bangladesh,2009,3
-Bangladesh,2010,3
-Bangladesh,2011,4
-Bangladesh,2012,8
-Bangladesh,2013,3
-Bangladesh,2014,5
-Bangladesh,2015,12
-Bangladesh,2016,7
-Bangladesh,2017,3
-Bangladesh,2018,11
-Bangladesh,2019,12
-Bangladesh,2020,20
+Bangladesh,2009,4
+Bangladesh,2010,5
+Bangladesh,2011,5
+Bangladesh,2012,18
+Bangladesh,2013,7
+Bangladesh,2014,8
+Bangladesh,2015,17
+Bangladesh,2016,11
+Bangladesh,2017,6
+Bangladesh,2018,28
+Bangladesh,2019,15
+Bangladesh,2020,33
 Bangladesh,2021,13
 Bangladesh,2022,5
-Bangladesh,2023,18
-Bangladesh,2024,9
-Belarus,2017,1
-Belgium,1997,2
-Belgium,1998,6
-Belgium,2000,3
-Belgium,2001,2
-Belgium,2002,2
-Belgium,2003,6
-Belgium,2004,1
-Belgium,2005,1
-Belgium,2006,4
-Belgium,2010,19
-Belgium,2011,44
-Belgium,2012,108
-Belgium,2013,92
-Belgium,2014,19
-Belgium,2015,4
-Belgium,2016,1
-Belgium,2017,3
-Belgium,2018,5
-Belgium,2019,6
+Bangladesh,2023,39
+Bangladesh,2024,15
+Belarus,2017,2
+Belgium,1997,7
+Belgium,1998,17
+Belgium,2000,4
+Belgium,2001,5
+Belgium,2002,5
+Belgium,2003,19
+Belgium,2004,2
+Belgium,2005,4
+Belgium,2006,12
+Belgium,2010,48
+Belgium,2011,105
+Belgium,2012,342
+Belgium,2013,323
+Belgium,2014,46
+Belgium,2015,21
+Belgium,2016,2
+Belgium,2017,7
+Belgium,2018,13
+Belgium,2019,25
 Belgium,2020,2
-Belgium,2021,2
-Belgium,2022,1
-Belgium,2023,3
+Belgium,2021,4
+Belgium,2022,2
+Belgium,2023,8
 Belize,2014,1
 Belize,2017,1
 Belize,2018,1
 Belize,2019,2
-Belize,2022,2
-Benin,2014,6
+Belize,2022,3
+Benin,2014,9
 Benin,2015,13
-Benin,2016,9
+Benin,2016,11
 Benin,2017,9
-Benin,2018,8
+Benin,2018,11
 Benin,2019,7
-Benin,2020,8
-Benin,2021,3
+Benin,2020,12
+Benin,2021,4
 Bhutan,2001,1
-Bhutan,2006,1
+Bhutan,2006,4
 Bhutan,2008,1
 Bhutan,2011,1
-Bhutan,2012,1
+Bhutan,2012,6
 Bhutan,2013,3
-Bhutan,2014,1
+Bhutan,2014,3
 Bhutan,2019,1
 Bhutan,2024,1
-Bolivia (Plurinational State of),2013,3
+Bolivia (Plurinational State of),2013,6
 Bolivia (Plurinational State of),2014,5
 Bolivia (Plurinational State of),2016,2
-Bolivia (Plurinational State of),2017,4
-Bolivia (Plurinational State of),2018,3
+Bolivia (Plurinational State of),2017,6
+Bolivia (Plurinational State of),2018,4
 Bolivia (Plurinational State of),2020,1
 Bolivia (Plurinational State of),2021,1
-Bolivia (Plurinational State of),2023,9
+Bolivia (Plurinational State of),2023,10
 "Bonaire, Sint Eustatius and Saba",2011,1
 "Bonaire, Sint Eustatius and Saba",2018,1
-Botswana,1990,1
-Botswana,1993,1
-Botswana,1995,1
+Botswana,1990,2
+Botswana,1993,6
+Botswana,1995,2
 Botswana,2001,1
 Botswana,2003,4
-Botswana,2005,2
-Botswana,2006,7
+Botswana,2005,3
+Botswana,2006,11
 Botswana,2007,1
 Botswana,2009,3
-Botswana,2010,4
+Botswana,2010,5
 Botswana,2011,2
-Botswana,2012,5
+Botswana,2012,10
 Botswana,2013,2
-Botswana,2014,3
+Botswana,2014,4
 Botswana,2015,2
-Botswana,2016,3
-Botswana,2017,8
-Botswana,2018,7
-Botswana,2019,9
-Botswana,2020,17
-Botswana,2021,6
-Botswana,2022,4
-Botswana,2023,5
-Botswana,2024,2
+Botswana,2016,6
+Botswana,2017,9
+Botswana,2018,12
+Botswana,2019,10
+Botswana,2020,23
+Botswana,2021,9
+Botswana,2022,6
+Botswana,2023,8
+Botswana,2024,4
 Brazil,1999,1
 Brazil,2000,1
-Brazil,2001,1
-Brazil,2007,1
+Brazil,2001,2
+Brazil,2007,2
 Brazil,2008,1
-Brazil,2009,1
-Brazil,2010,5
-Brazil,2011,4
-Brazil,2012,1
-Brazil,2013,27
-Brazil,2014,57
-Brazil,2015,6
-Brazil,2016,7
-Brazil,2017,64
-Brazil,2018,98
-Brazil,2019,60
-Brazil,2020,80
-Brazil,2021,248
-Brazil,2022,183
-Brazil,2023,207
-Brazil,2024,114
+Brazil,2009,8
+Brazil,2010,6
+Brazil,2011,5
+Brazil,2012,2
+Brazil,2013,31
+Brazil,2014,63
+Brazil,2015,8
+Brazil,2016,11
+Brazil,2017,109
+Brazil,2018,159
+Brazil,2019,390
+Brazil,2020,127
+Brazil,2021,392
+Brazil,2022,235
+Brazil,2023,367
+Brazil,2024,224
 Brunei Darussalam,2014,1
 Bulgaria,1998,2
-Bulgaria,2010,1
-Bulgaria,2011,3
+Bulgaria,2010,2
+Bulgaria,2011,8
 Bulgaria,2013,2
-Bulgaria,2014,6
+Bulgaria,2014,8
 Bulgaria,2016,1
 Bulgaria,2017,2
-Bulgaria,2018,3
-Bulgaria,2019,2
-Bulgaria,2020,1
-Burkina Faso,2005,1
-Burkina Faso,2006,1
+Bulgaria,2018,5
+Bulgaria,2019,4
+Bulgaria,2020,2
+Burkina Faso,2005,2
+Burkina Faso,2006,2
 Burkina Faso,2009,1
-Burkina Faso,2012,3
+Burkina Faso,2012,5
 Burkina Faso,2013,1
 Burkina Faso,2014,1
-Burkina Faso,2015,1
-Burkina Faso,2016,1
-Burkina Faso,2018,2
+Burkina Faso,2015,8
+Burkina Faso,2016,4
+Burkina Faso,2018,5
 Burkina Faso,2019,2
-Burkina Faso,2020,3
-Burkina Faso,2021,4
+Burkina Faso,2020,4
+Burkina Faso,2021,8
 Burkina Faso,2022,1
 Burundi,2007,1
-Burundi,2009,1
-Burundi,2013,2
+Burundi,2009,2
+Burundi,2013,4
 Burundi,2014,1
 Burundi,2019,1
 Cambodia,2000,3
@@ -238,355 +238,355 @@ Cambodia,2001,7
 Cambodia,2002,6
 Cambodia,2003,19
 Cambodia,2004,20
-Cambodia,2005,37
+Cambodia,2005,41
 Cambodia,2006,23
 Cambodia,2007,23
-Cambodia,2008,13
-Cambodia,2009,17
+Cambodia,2008,18
+Cambodia,2009,21
 Cambodia,2010,11
-Cambodia,2011,10
-Cambodia,2012,5
-Cambodia,2013,20
-Cambodia,2014,38
-Cambodia,2015,44
-Cambodia,2016,59
-Cambodia,2017,67
-Cambodia,2018,98
-Cambodia,2019,76
-Cambodia,2020,112
-Cambodia,2021,94
-Cambodia,2022,38
-Cambodia,2023,9
-Cambodia,2024,4
+Cambodia,2011,34
+Cambodia,2012,9
+Cambodia,2013,27
+Cambodia,2014,66
+Cambodia,2015,85
+Cambodia,2016,134
+Cambodia,2017,113
+Cambodia,2018,151
+Cambodia,2019,105
+Cambodia,2020,142
+Cambodia,2021,137
+Cambodia,2022,62
+Cambodia,2023,11
+Cambodia,2024,5
 Cameroon,1999,1
 Cameroon,2000,3
 Cameroon,2002,2
 Cameroon,2003,5
 Cameroon,2004,7
 Cameroon,2005,6
-Cameroon,2006,4
+Cameroon,2006,3
 Cameroon,2007,3
-Cameroon,2008,3
-Cameroon,2009,6
-Cameroon,2010,12
-Cameroon,2011,10
-Cameroon,2012,37
-Cameroon,2013,34
-Cameroon,2014,58
-Cameroon,2015,78
-Cameroon,2016,113
-Cameroon,2017,94
-Cameroon,2018,63
-Cameroon,2019,78
-Cameroon,2020,74
-Cameroon,2021,63
-Cameroon,2022,69
-Cameroon,2023,36
-Cameroon,2024,120
+Cameroon,2008,6
+Cameroon,2009,8
+Cameroon,2010,15
+Cameroon,2011,12
+Cameroon,2012,40
+Cameroon,2013,52
+Cameroon,2014,81
+Cameroon,2015,83
+Cameroon,2016,135
+Cameroon,2017,117
+Cameroon,2018,101
+Cameroon,2019,94
+Cameroon,2020,114
+Cameroon,2021,93
+Cameroon,2022,107
+Cameroon,2023,55
+Cameroon,2024,119
 Canada,1995,1
 Canada,1998,1
 Canada,1999,1
 Canada,2000,3
 Canada,2001,1
-Canada,2003,3
-Canada,2004,2
-Canada,2005,6
-Canada,2006,4
-Canada,2007,2
-Canada,2009,8
-Canada,2010,11
-Canada,2011,4
-Canada,2013,8
-Canada,2014,5
-Canada,2015,3
-Canada,2016,8
-Canada,2017,7
-Canada,2018,10
-Canada,2019,11
-Canada,2020,5
-Canada,2021,5
-Canada,2022,1
-Canada,2023,10
-Canada,2024,1
+Canada,2003,7
+Canada,2004,3
+Canada,2005,9
+Canada,2006,5
+Canada,2007,74
+Canada,2009,12
+Canada,2010,23
+Canada,2011,5
+Canada,2013,13
+Canada,2014,6
+Canada,2015,6
+Canada,2016,11
+Canada,2017,10
+Canada,2018,13
+Canada,2019,15
+Canada,2020,7
+Canada,2021,6
+Canada,2022,4
+Canada,2023,32
+Canada,2024,2
 Cape Verde,2019,1
-Cape Verde,2023,1
-Cayman Islands,2001,1
-Cayman Islands,2017,1
+Cape Verde,2023,2
+Cayman Islands,2001,10
+Cayman Islands,2017,2
 Central African Republic,2000,1
 Central African Republic,2002,1
 Central African Republic,2009,4
-Central African Republic,2010,13
+Central African Republic,2010,14
 Central African Republic,2011,7
 Central African Republic,2013,1
 Central African Republic,2016,1
 Central African Republic,2018,1
 Central African Republic,2019,1
-Central African Republic,2020,1
-Central African Republic,2024,1
+Central African Republic,2020,10
+Central African Republic,2024,2
 Chad,1999,1
 Chad,2011,1
-Chad,2013,1
+Chad,2013,4
 Chad,2014,1
 Chad,2015,1
 Chad,2019,2
 Chad,2020,2
-Chad,2023,2
+Chad,2023,3
 Chad,2024,1
 Chile,2002,1
-Chile,2011,1
+Chile,2011,2
 Chile,2014,2
-Chile,2018,2
+Chile,2018,3
 Chile,2019,3
-Chile,2020,63
-Chile,2021,7
+Chile,2020,66
+Chile,2021,8
 Chile,2022,3
-Chile,2023,17
-Chile,2024,1
+Chile,2023,32
+Chile,2024,2
 China,1996,1
 China,1998,2
-China,1999,11
-China,2000,4
-China,2001,13
-China,2002,14
-China,2003,14
-China,2004,22
+China,1999,38
+China,2000,8
+China,2001,27
+China,2002,27
+China,2003,22
+China,2004,29
 China,2005,17
-China,2006,16
-China,2007,41
-China,2008,59
-China,2009,124
-China,2010,389
-China,2011,188
-China,2012,168
-China,2013,182
-China,2014,199
-China,2015,139
-China,2016,134
-China,2017,109
-China,2018,206
-China,2019,586
-China,2020,339
-China,2021,377
-China,2022,145
-China,2023,185
-China,2024,171
+China,2006,29
+China,2007,149
+China,2008,120
+China,2009,223
+China,2010,766
+China,2011,396
+China,2012,291
+China,2013,360
+China,2014,411
+China,2015,290
+China,2016,260
+China,2017,231
+China,2018,484
+China,2019,1062
+China,2020,529
+China,2021,445
+China,2022,188
+China,2023,241
+China,2024,203
 Colombia,1996,1
-Colombia,2000,1
+Colombia,2000,2
 Colombia,2010,5
 Colombia,2011,3
-Colombia,2012,3
+Colombia,2012,7
 Colombia,2013,15
-Colombia,2014,19
-Colombia,2015,6
-Colombia,2016,2
-Colombia,2017,21
-Colombia,2018,71
-Colombia,2019,63
-Colombia,2020,61
-Colombia,2021,18
-Colombia,2022,32
-Colombia,2023,28
-Colombia,2024,39
-Comoros,2014,1
-Comoros,2017,1
-Comoros,2018,2
+Colombia,2014,22
+Colombia,2015,7
+Colombia,2016,5
+Colombia,2017,30
+Colombia,2018,85
+Colombia,2019,119
+Colombia,2020,100
+Colombia,2021,38
+Colombia,2022,44
+Colombia,2023,42
+Colombia,2024,64
+Comoros,2014,6
+Comoros,2017,2
+Comoros,2018,4
 Comoros,2019,1
-Comoros,2022,4
-Comoros,2023,3
-Comoros,2024,2
+Comoros,2022,9
+Comoros,2023,7
+Comoros,2024,6
 Congo,2003,1
 Congo,2004,2
 Congo,2005,1
 Congo,2008,1
 Congo,2009,1
 Congo,2010,1
-Congo,2011,5
+Congo,2011,7
 Congo,2012,4
-Congo,2013,11
-Congo,2014,6
-Congo,2015,19
-Congo,2016,19
-Congo,2017,36
-Congo,2018,42
-Congo,2019,37
-Congo,2020,25
-Congo,2021,19
-Congo,2022,18
-Congo,2023,14
-Congo,2024,13
+Congo,2013,15
+Congo,2014,7
+Congo,2015,24
+Congo,2016,23
+Congo,2017,52
+Congo,2018,61
+Congo,2019,49
+Congo,2020,33
+Congo,2021,34
+Congo,2022,26
+Congo,2023,19
+Congo,2024,15
 "Congo, Democratic Republic of The",2000,2
-"Congo, Democratic Republic of The",2005,1
-"Congo, Democratic Republic of The",2010,5
+"Congo, Democratic Republic of The",2005,2
+"Congo, Democratic Republic of The",2010,7
 "Congo, Democratic Republic of The",2011,1
 "Congo, Democratic Republic of The",2013,2
-"Congo, Democratic Republic of The",2014,4
-"Congo, Democratic Republic of The",2015,12
+"Congo, Democratic Republic of The",2014,6
+"Congo, Democratic Republic of The",2015,14
 "Congo, Democratic Republic of The",2016,21
 "Congo, Democratic Republic of The",2017,16
-"Congo, Democratic Republic of The",2018,38
-"Congo, Democratic Republic of The",2019,29
-"Congo, Democratic Republic of The",2020,34
-"Congo, Democratic Republic of The",2021,33
-"Congo, Democratic Republic of The",2022,32
-"Congo, Democratic Republic of The",2023,21
-"Congo, Democratic Republic of The",2024,8
+"Congo, Democratic Republic of The",2018,46
+"Congo, Democratic Republic of The",2019,31
+"Congo, Democratic Republic of The",2020,35
+"Congo, Democratic Republic of The",2021,36
+"Congo, Democratic Republic of The",2022,38
+"Congo, Democratic Republic of The",2023,22
+"Congo, Democratic Republic of The",2024,9
 Costa Rica,2011,1
-Costa Rica,2013,8
+Costa Rica,2013,9
 Costa Rica,2014,5
 Costa Rica,2018,2
-Costa Rica,2020,3
+Costa Rica,2020,4
 Costa Rica,2023,1
 Cote d'Ivoire,2013,1
 Cote d'Ivoire,2014,1
 Cote d'Ivoire,2015,1
-Cote d'Ivoire,2016,2
-Cote d'Ivoire,2017,3
-Cote d'Ivoire,2018,6
-Cote d'Ivoire,2019,11
-Cote d'Ivoire,2020,15
-Cote d'Ivoire,2021,10
-Cote d'Ivoire,2022,13
-Cote d'Ivoire,2023,12
-Cote d'Ivoire,2024,11
+Cote d'Ivoire,2016,4
+Cote d'Ivoire,2017,16
+Cote d'Ivoire,2018,29
+Cote d'Ivoire,2019,15
+Cote d'Ivoire,2020,26
+Cote d'Ivoire,2021,27
+Cote d'Ivoire,2022,21
+Cote d'Ivoire,2023,18
+Cote d'Ivoire,2024,19
 Croatia,2004,1
-Croatia,2005,1
-Croatia,2007,1
+Croatia,2005,2
+Croatia,2007,4
 Croatia,2010,1
-Croatia,2014,2
+Croatia,2014,5
 Croatia,2016,1
 Croatia,2018,2
-Croatia,2019,3
+Croatia,2019,6
 Croatia,2020,1
 Croatia,2023,1
-Cuba,2014,1
+Cuba,2014,2
 Cuba,2019,1
 Cyprus,2000,1
 Cyprus,2014,1
 Cyprus,2018,2
 Cyprus,2023,1
 Czech Republic,2011,2
-Czech Republic,2012,2
-Czech Republic,2013,6
-Czech Republic,2014,5
-Czech Republic,2016,5
-Czech Republic,2017,1
-Czech Republic,2018,4
+Czech Republic,2012,5
+Czech Republic,2013,14
+Czech Republic,2014,17
+Czech Republic,2016,9
+Czech Republic,2017,2
+Czech Republic,2018,9
 Czech Republic,2022,1
 Czech Republic,2023,5
 Czech Republic,2024,1
 Denmark,2000,1
 Denmark,2001,1
 Denmark,2003,3
-Denmark,2005,2
-Denmark,2007,1
+Denmark,2005,5
+Denmark,2007,2
 Denmark,2008,1
 Denmark,2014,1
-Denmark,2018,2
-Denmark,2023,1
+Denmark,2018,5
+Denmark,2023,2
 Djibouti,2001,1
-Djibouti,2012,2
-Dominican Republic,2013,1
-Dominican Republic,2022,1
+Djibouti,2012,4
+Dominican Republic,2013,2
+Dominican Republic,2022,3
 Dominican Republic,2024,1
-Ecuador,2011,2
-Ecuador,2012,1
+Ecuador,2011,3
+Ecuador,2012,2
 Ecuador,2013,10
 Ecuador,2014,15
-Ecuador,2015,5
-Ecuador,2016,3
-Ecuador,2017,8
-Ecuador,2018,20
-Ecuador,2019,20
+Ecuador,2015,6
+Ecuador,2016,4
+Ecuador,2017,10
+Ecuador,2018,24
+Ecuador,2019,24
 Ecuador,2020,1
-Ecuador,2021,10
-Ecuador,2022,10
-Ecuador,2023,14
+Ecuador,2021,13
+Ecuador,2022,16
+Ecuador,2023,15
 Ecuador,2024,14
 Egypt,1999,3
 Egypt,2000,8
-Egypt,2001,2
+Egypt,2001,3
 Egypt,2002,3
 Egypt,2004,2
 Egypt,2005,1
-Egypt,2007,2
+Egypt,2007,4
 Egypt,2012,1
 Egypt,2014,1
 Egypt,2015,1
 Egypt,2016,1
-Egypt,2017,3
-Egypt,2018,5
-Egypt,2021,1
-Egypt,2022,1
-Egypt,2023,2
+Egypt,2017,4
+Egypt,2018,7
+Egypt,2021,2
+Egypt,2022,2
+Egypt,2023,5
 Egypt,2024,1
 El Salvador,2013,2
-El Salvador,2014,1
+El Salvador,2014,2
 El Salvador,2018,1
 El Salvador,2020,1
 Equatorial Guinea,2012,1
 Equatorial Guinea,2019,1
 Estonia,2011,1
-Estonia,2012,1
-Estonia,2013,19
-Estonia,2014,32
-Estonia,2018,1
+Estonia,2012,4
+Estonia,2013,40
+Estonia,2014,71
+Estonia,2018,3
 Eswatini,2010,1
-Eswatini,2011,3
+Eswatini,2011,5
 Eswatini,2013,1
-Eswatini,2014,2
-Eswatini,2017,1
+Eswatini,2014,3
+Eswatini,2017,12
 Ethiopia,2003,1
 Ethiopia,2005,1
 Ethiopia,2007,1
-Ethiopia,2009,1
-Ethiopia,2011,1
-Ethiopia,2012,1
+Ethiopia,2009,4
+Ethiopia,2011,2
+Ethiopia,2012,2
 Ethiopia,2014,2
-Ethiopia,2016,4
+Ethiopia,2016,7
 Ethiopia,2019,1
 Ethiopia,2020,1
 Ethiopia,2023,2
-Fiji,2024,1
-Finland,1999,1
-Finland,2003,3
-Finland,2011,1
-Finland,2014,1
-France,1996,1
-France,1997,1
-France,1998,1
-France,1999,1
+Fiji,2024,2
+Finland,1999,2
+Finland,2003,6
+Finland,2011,4
+Finland,2014,2
+France,1996,2
+France,1997,4
+France,1998,4
+France,1999,4
 France,2003,1
-France,2004,2
-France,2005,2
-France,2006,3
+France,2004,3
+France,2005,8
+France,2006,5
 France,2008,1
-France,2009,2
-France,2010,2
-France,2011,9
-France,2012,3
-France,2013,16
-France,2014,31
-France,2015,16
-France,2016,13
-France,2017,13
-France,2018,31
-France,2019,15
-France,2020,27
-France,2021,7
-France,2022,4
-France,2023,14
-France,2024,4
+France,2009,14
+France,2010,6
+France,2011,13
+France,2012,7
+France,2013,27
+France,2014,58
+France,2015,38
+France,2016,22
+France,2017,30
+France,2018,50
+France,2019,21
+France,2020,37
+France,2021,16
+France,2022,8
+France,2023,22
+France,2024,9
 French Guiana,2010,2
-French Guiana,2017,1
-French Guiana,2019,1
+French Guiana,2017,8
+French Guiana,2019,2
 French Guiana,2020,2
-French Guiana,2021,1
+French Guiana,2021,2
 French Guiana,2023,1
 French Polynesia,2010,1
-French Polynesia,2013,2
+French Polynesia,2013,3
 French Polynesia,2020,1
 French Southern Territories,2014,2
-French Southern Territories,2017,1
+French Southern Territories,2017,2
 French Southern Territories,2018,1
 Gabon,1998,1
 Gabon,1999,1
@@ -594,52 +594,52 @@ Gabon,2000,1
 Gabon,2002,1
 Gabon,2003,1
 Gabon,2009,1
-Gabon,2010,1
-Gabon,2013,8
-Gabon,2014,9
+Gabon,2010,3
+Gabon,2013,10
+Gabon,2014,11
 Gabon,2015,5
-Gabon,2016,9
-Gabon,2017,35
-Gabon,2018,44
-Gabon,2019,36
-Gabon,2020,26
-Gabon,2021,29
-Gabon,2022,23
-Gabon,2023,15
+Gabon,2016,10
+Gabon,2017,43
+Gabon,2018,57
+Gabon,2019,49
+Gabon,2020,31
+Gabon,2021,35
+Gabon,2022,27
+Gabon,2023,19
 Gabon,2024,6
 Gambia,2018,3
-Gambia,2019,2
+Gambia,2019,3
 Gambia,2020,4
-Gambia,2021,1
+Gambia,2021,2
 Gambia,2023,1
 Gambia,2024,2
 Georgia,2019,1
-Georgia,2023,1
+Georgia,2023,4
 Georgia,2024,1
-Germany,1996,2
+Germany,1996,3
 Germany,2010,1
-Germany,2011,7
-Germany,2012,7
-Germany,2013,17
-Germany,2014,17
-Germany,2015,2
-Germany,2016,5
-Germany,2017,8
-Germany,2018,13
-Germany,2019,10
-Germany,2020,16
-Germany,2021,19
-Germany,2022,7
-Germany,2023,7
-Germany,2024,2
+Germany,2011,15
+Germany,2012,33
+Germany,2013,65
+Germany,2014,56
+Germany,2015,8
+Germany,2016,10
+Germany,2017,15
+Germany,2018,35
+Germany,2019,24
+Germany,2020,33
+Germany,2021,50
+Germany,2022,21
+Germany,2023,21
+Germany,2024,6
 Ghana,2013,1
-Ghana,2017,2
+Ghana,2017,3
 Ghana,2018,1
-Ghana,2019,4
-Ghana,2020,6
-Ghana,2021,7
-Ghana,2022,2
-Ghana,2023,3
+Ghana,2019,6
+Ghana,2020,9
+Ghana,2021,8
+Ghana,2022,1
+Ghana,2023,7
 Greece,1968,1
 Greece,1993,1
 Greece,1995,4
@@ -655,299 +655,299 @@ Greece,2004,3
 Greece,2005,5
 Greece,2006,8
 Greece,2007,19
-Greece,2011,6
+Greece,2011,12
 Greece,2012,14
 Greece,2013,3
 Greece,2014,3
-Greece,2015,7
-Greece,2016,21
-Greece,2017,19
+Greece,2015,9
+Greece,2016,36
+Greece,2017,38
 Greece,2018,10
 Greece,2019,5
 Greece,2020,6
-Greece,2021,15
+Greece,2021,16
 Greece,2022,4
 Guadeloupe,2014,1
-Guam,2019,2
+Guam,2019,3
 Guatemala,2013,3
-Guatemala,2014,4
+Guatemala,2014,5
 Guatemala,2017,1
 Guatemala,2019,1
 Guatemala,2022,1
 Guatemala,2024,1
 Guinea,2009,1
-Guinea,2012,3
+Guinea,2012,4
 Guinea,2013,2
-Guinea,2014,7
-Guinea,2015,6
-Guinea,2016,6
-Guinea,2017,10
-Guinea,2018,14
-Guinea,2019,7
-Guinea,2020,4
-Guinea,2021,1
-Guinea,2022,3
+Guinea,2014,10
+Guinea,2015,7
+Guinea,2016,10
+Guinea,2017,14
+Guinea,2018,18
+Guinea,2019,21
+Guinea,2020,5
+Guinea,2021,2
+Guinea,2022,4
 Guinea,2023,1
 Guinea,2024,1
 Guinea-Bissau,2020,1
-Guyana,2007,1
-Guyana,2012,1
-Guyana,2014,2
-Guyana,2015,1
-Guyana,2016,2
-Guyana,2022,2
-Guyana,2023,1
+Guyana,2007,2
+Guyana,2012,3
+Guyana,2014,4
+Guyana,2015,2
+Guyana,2016,3
+Guyana,2022,4
+Guyana,2023,2
 Honduras,2014,1
 Honduras,2018,1
 Honduras,2019,2
 Honduras,2022,1
-Hong Kong,1996,1
+Hong Kong,1996,2
 Hong Kong,1998,1
 Hong Kong,1999,1
-Hong Kong,2000,2
-Hong Kong,2001,3
-Hong Kong,2002,3
-Hong Kong,2003,2
-Hong Kong,2004,7
-Hong Kong,2005,3
-Hong Kong,2006,5
-Hong Kong,2007,6
+Hong Kong,2000,4
+Hong Kong,2001,8
+Hong Kong,2002,6
+Hong Kong,2003,4
+Hong Kong,2004,11
+Hong Kong,2005,8
+Hong Kong,2006,17
+Hong Kong,2007,11
 Hong Kong,2008,1
-Hong Kong,2009,2
-Hong Kong,2010,6
-Hong Kong,2011,7
-Hong Kong,2012,12
-Hong Kong,2013,14
-Hong Kong,2014,17
-Hong Kong,2015,40
-Hong Kong,2016,37
-Hong Kong,2017,42
-Hong Kong,2018,65
-Hong Kong,2019,48
-Hong Kong,2020,28
-Hong Kong,2021,32
-Hong Kong,2022,25
-Hong Kong,2023,38
-Hong Kong,2024,24
+Hong Kong,2009,3
+Hong Kong,2010,24
+Hong Kong,2011,13
+Hong Kong,2012,25
+Hong Kong,2013,37
+Hong Kong,2014,41
+Hong Kong,2015,95
+Hong Kong,2016,80
+Hong Kong,2017,111
+Hong Kong,2018,135
+Hong Kong,2019,95
+Hong Kong,2020,72
+Hong Kong,2021,58
+Hong Kong,2022,44
+Hong Kong,2023,73
+Hong Kong,2024,56
 Hungary,2007,1
 Hungary,2010,2
-Hungary,2011,1
-Hungary,2015,1
-Iceland,2014,1
+Hungary,2011,4
+Hungary,2015,2
+Iceland,2014,4
 Iceland,2021,1
 India,1990,1
 India,1992,3
-India,1993,2
-India,1994,21
-India,1995,7
-India,1996,44
-India,1997,75
-India,1998,17
-India,1999,31
+India,1993,4
+India,1994,22
+India,1995,9
+India,1996,51
+India,1997,77
+India,1998,20
+India,1999,43
 India,2000,26
-India,2001,57
-India,2002,32
-India,2003,50
-India,2004,33
-India,2005,47
-India,2006,32
-India,2007,78
-India,2008,70
-India,2009,100
-India,2010,101
-India,2011,177
-India,2012,139
-India,2013,260
-India,2014,285
-India,2015,280
-India,2016,254
-India,2017,202
-India,2018,260
-India,2019,337
-India,2020,638
-India,2021,599
-India,2022,465
-India,2023,657
-India,2024,531
+India,2001,66
+India,2002,35
+India,2003,72
+India,2004,46
+India,2005,59
+India,2006,41
+India,2007,105
+India,2008,88
+India,2009,138
+India,2010,178
+India,2011,334
+India,2012,211
+India,2013,481
+India,2014,580
+India,2015,547
+India,2016,451
+India,2017,393
+India,2018,878
+India,2019,572
+India,2020,906
+India,2021,818
+India,2022,816
+India,2023,959
+India,2024,743
 Indonesia,2000,1
-Indonesia,2002,2
+Indonesia,2002,4
 Indonesia,2003,3
-Indonesia,2004,9
-Indonesia,2005,13
-Indonesia,2006,19
-Indonesia,2007,13
-Indonesia,2008,10
-Indonesia,2009,23
-Indonesia,2010,21
-Indonesia,2011,40
-Indonesia,2012,30
-Indonesia,2013,41
-Indonesia,2014,66
-Indonesia,2015,121
-Indonesia,2016,305
-Indonesia,2017,222
-Indonesia,2018,109
-Indonesia,2019,92
-Indonesia,2020,132
-Indonesia,2021,70
-Indonesia,2022,81
-Indonesia,2023,101
-Indonesia,2024,88
-"Iran, Islamic Republic of",2011,1
-"Iran, Islamic Republic of",2014,1
+Indonesia,2004,14
+Indonesia,2005,14
+Indonesia,2006,28
+Indonesia,2007,14
+Indonesia,2008,17
+Indonesia,2009,37
+Indonesia,2010,44
+Indonesia,2011,93
+Indonesia,2012,64
+Indonesia,2013,66
+Indonesia,2014,93
+Indonesia,2015,325
+Indonesia,2016,722
+Indonesia,2017,567
+Indonesia,2018,293
+Indonesia,2019,226
+Indonesia,2020,253
+Indonesia,2021,124
+Indonesia,2022,137
+Indonesia,2023,180
+Indonesia,2024,243
+"Iran, Islamic Republic of",2011,2
+"Iran, Islamic Republic of",2014,3
 "Iran, Islamic Republic of",2017,2
-"Iran, Islamic Republic of",2018,9
+"Iran, Islamic Republic of",2018,11
 "Iran, Islamic Republic of",2019,1
 "Iran, Islamic Republic of",2020,2
 "Iran, Islamic Republic of",2023,1
 Iraq,2021,1
 Ireland,1998,1
-Ireland,2010,2
+Ireland,2010,5
 Ireland,2014,1
 Ireland,2016,2
-Ireland,2018,1
-Ireland,2019,5
-Ireland,2022,1
+Ireland,2018,2
+Ireland,2019,9
+Ireland,2022,2
 Israel,1999,1
-Israel,2011,1
-Israel,2013,1
-Israel,2014,2
-Israel,2016,1
-Israel,2018,2
-Israel,2019,4
-Israel,2020,1
-Israel,2023,7
+Israel,2011,2
+Israel,2013,2
+Israel,2014,4
+Israel,2016,3
+Israel,2018,5
+Israel,2019,7
+Israel,2020,2
+Israel,2023,12
 Israel,2024,1
-Italy,2001,3
-Italy,2002,3
+Italy,2001,7
+Italy,2002,6
 Italy,2003,1
-Italy,2011,4
-Italy,2012,4
-Italy,2013,1
-Italy,2014,3
-Italy,2015,4
-Italy,2016,10
-Italy,2017,15
-Italy,2018,37
-Italy,2019,13
-Italy,2020,22
-Italy,2021,12
+Italy,2011,7
+Italy,2012,14
+Italy,2013,3
+Italy,2014,4
+Italy,2015,6
+Italy,2016,12
+Italy,2017,22
+Italy,2018,52
+Italy,2019,34
+Italy,2020,29
+Italy,2021,14
 Italy,2022,2
-Italy,2023,8
+Italy,2023,9
 Italy,2024,2
-Jamaica,2024,2
-Japan,1997,1
-Japan,1998,3
-Japan,1999,2
-Japan,2000,1
-Japan,2001,5
-Japan,2004,1
-Japan,2005,2
+Jamaica,2024,4
+Japan,1997,2
+Japan,1998,6
+Japan,1999,4
+Japan,2000,3
+Japan,2001,11
+Japan,2004,2
+Japan,2005,3
 Japan,2006,1
-Japan,2007,3
+Japan,2007,6
 Japan,2011,2
-Japan,2014,1
+Japan,2014,2
 Japan,2015,1
-Japan,2017,3
-Japan,2018,4
-Japan,2019,4
-Japan,2020,2
+Japan,2017,4
+Japan,2018,6
+Japan,2019,7
+Japan,2020,3
 Japan,2021,2
 Japan,2022,1
-Japan,2023,2
+Japan,2023,3
 Jordan,2000,1
-Jordan,2010,2
-Jordan,2014,1
+Jordan,2010,8
+Jordan,2014,2
 Jordan,2016,2
 Jordan,2018,1
 Jordan,2024,1
 Kazakhstan,2006,2
-Kazakhstan,2010,10
-Kazakhstan,2012,2
+Kazakhstan,2010,14
+Kazakhstan,2012,4
 Kazakhstan,2015,1
-Kazakhstan,2016,1
-Kazakhstan,2017,2
+Kazakhstan,2016,2
+Kazakhstan,2017,4
 Kazakhstan,2018,1
 Kazakhstan,2021,1
-Kazakhstan,2022,7
-Kazakhstan,2023,15
-Kazakhstan,2024,35
-Kenya,2005,1
+Kazakhstan,2022,10
+Kazakhstan,2023,16
+Kazakhstan,2024,54
+Kenya,2005,2
 Kenya,2006,1
-Kenya,2009,7
-Kenya,2010,17
-Kenya,2011,35
-Kenya,2012,26
-Kenya,2013,82
-Kenya,2014,71
-Kenya,2015,25
-Kenya,2016,21
-Kenya,2017,25
-Kenya,2018,51
-Kenya,2019,41
-Kenya,2020,87
-Kenya,2021,82
-Kenya,2022,52
-Kenya,2023,175
-Kenya,2024,71
-"Korea, Republic of",1997,1
-"Korea, Republic of",2011,1
+Kenya,2009,17
+Kenya,2010,32
+Kenya,2011,67
+Kenya,2012,36
+Kenya,2013,160
+Kenya,2014,117
+Kenya,2015,42
+Kenya,2016,52
+Kenya,2017,44
+Kenya,2018,78
+Kenya,2019,94
+Kenya,2020,112
+Kenya,2021,99
+Kenya,2022,71
+Kenya,2023,217
+Kenya,2024,84
+"Korea, Republic of",1997,2
+"Korea, Republic of",2011,2
 "Korea, Republic of",2018,1
 "Kosovo, Republic of",2014,2
-Kuwait,2013,1
+Kuwait,2013,2
 Kuwait,2016,1
-Kuwait,2017,1
+Kuwait,2017,2
 Kuwait,2020,1
-Kyrgyzstan,2003,1
-Kyrgyzstan,2011,1
-Kyrgyzstan,2016,1
-Kyrgyzstan,2017,1
+Kyrgyzstan,2003,2
+Kyrgyzstan,2011,2
+Kyrgyzstan,2016,2
+Kyrgyzstan,2017,3
 Kyrgyzstan,2022,1
-Kyrgyzstan,2023,3
+Kyrgyzstan,2023,6
 Kyrgyzstan,2024,1
 Lao People's Democratic Republic,2003,2
 Lao People's Democratic Republic,2004,1
 Lao People's Democratic Republic,2005,6
-Lao People's Democratic Republic,2006,2
+Lao People's Democratic Republic,2006,3
 Lao People's Democratic Republic,2007,1
 Lao People's Democratic Republic,2008,6
-Lao People's Democratic Republic,2009,5
+Lao People's Democratic Republic,2009,6
 Lao People's Democratic Republic,2010,5
 Lao People's Democratic Republic,2011,1
 Lao People's Democratic Republic,2012,3
-Lao People's Democratic Republic,2015,1
-Lao People's Democratic Republic,2016,7
-Lao People's Democratic Republic,2017,12
-Lao People's Democratic Republic,2018,6
-Lao People's Democratic Republic,2019,5
-Lao People's Democratic Republic,2020,2
+Lao People's Democratic Republic,2015,3
+Lao People's Democratic Republic,2016,19
+Lao People's Democratic Republic,2017,28
+Lao People's Democratic Republic,2018,10
+Lao People's Democratic Republic,2019,11
+Lao People's Democratic Republic,2020,5
 Lao People's Democratic Republic,2021,1
 Lao People's Democratic Republic,2022,1
 Lao People's Democratic Republic,2023,2
-Lao People's Democratic Republic,2024,5
-Latvia,2017,1
+Lao People's Democratic Republic,2024,12
+Latvia,2017,2
 Latvia,2020,1
 Lebanon,2014,2
-Lebanon,2017,1
-Lebanon,2018,1
-Lebanon,2023,6
-Lebanon,2024,1
+Lebanon,2017,4
+Lebanon,2018,2
+Lebanon,2023,10
+Lebanon,2024,2
 Liberia,2010,1
 Liberia,2011,1
 Liberia,2012,2
 Liberia,2013,1
-Liberia,2014,4
-Liberia,2015,3
+Liberia,2014,5
+Liberia,2015,5
 Liberia,2016,5
-Liberia,2017,43
-Liberia,2018,10
-Liberia,2019,5
-Liberia,2020,12
-Liberia,2021,29
-Liberia,2022,13
-Liberia,2023,8
+Liberia,2017,57
+Liberia,2018,12
+Liberia,2019,7
+Liberia,2020,15
+Liberia,2021,31
+Liberia,2022,42
+Liberia,2023,11
 Liberia,2024,2
-Libya,2017,1
+Libya,2017,3
 Libya,2018,1
 Lithuania,2011,25
 Lithuania,2012,35
@@ -956,412 +956,411 @@ Lithuania,2014,14
 Macau,2001,1
 Macau,2002,2
 Macau,2003,1
-Macau,2012,1
-Macau,2013,2
+Macau,2012,5
+Macau,2013,5
 Macedonia,2009,1
 Macedonia,2011,1
-Macedonia,2019,3
+Macedonia,2019,6
 Madagascar,1996,1
-Madagascar,2007,1
+Madagascar,2007,2
 Madagascar,2008,1
-Madagascar,2009,1
-Madagascar,2011,4
-Madagascar,2012,3
-Madagascar,2013,3
-Madagascar,2014,5
-Madagascar,2015,7
-Madagascar,2016,7
-Madagascar,2017,8
-Madagascar,2018,12
-Madagascar,2019,9
-Madagascar,2020,12
-Madagascar,2021,26
-Madagascar,2022,18
-Madagascar,2023,16
-Madagascar,2024,11
+Madagascar,2009,2
+Madagascar,2011,12
+Madagascar,2012,5
+Madagascar,2013,7
+Madagascar,2014,11
+Madagascar,2015,18
+Madagascar,2016,17
+Madagascar,2017,29
+Madagascar,2018,21
+Madagascar,2019,14
+Madagascar,2020,16
+Madagascar,2021,37
+Madagascar,2022,23
+Madagascar,2023,23
+Madagascar,2024,16
 Malawi,2003,1
-Malawi,2011,1
-Malawi,2013,1
-Malawi,2014,1
-Malawi,2016,7
-Malawi,2017,13
-Malawi,2018,8
-Malawi,2019,18
-Malawi,2020,12
-Malawi,2021,10
-Malawi,2022,15
-Malawi,2023,10
-Malawi,2024,4
+Malawi,2011,3
+Malawi,2013,6
+Malawi,2014,2
+Malawi,2016,21
+Malawi,2017,20
+Malawi,2018,12
+Malawi,2019,23
+Malawi,2020,17
+Malawi,2021,12
+Malawi,2022,24
+Malawi,2023,13
+Malawi,2024,6
 Malaysia,1997,1
 Malaysia,1999,1
 Malaysia,2000,1
 Malaysia,2001,4
-Malaysia,2002,2
-Malaysia,2003,8
+Malaysia,2002,5
+Malaysia,2003,13
 Malaysia,2004,1
 Malaysia,2005,5
-Malaysia,2006,4
-Malaysia,2007,15
-Malaysia,2008,16
-Malaysia,2009,20
-Malaysia,2010,26
-Malaysia,2011,37
-Malaysia,2012,22
-Malaysia,2013,16
-Malaysia,2014,30
-Malaysia,2015,42
-Malaysia,2016,79
-Malaysia,2017,79
-Malaysia,2018,53
-Malaysia,2019,56
-Malaysia,2020,69
-Malaysia,2021,39
-Malaysia,2022,19
-Malaysia,2023,15
-Malaysia,2024,20
+Malaysia,2006,8
+Malaysia,2007,21
+Malaysia,2008,17
+Malaysia,2009,34
+Malaysia,2010,48
+Malaysia,2011,69
+Malaysia,2012,39
+Malaysia,2013,32
+Malaysia,2014,55
+Malaysia,2015,56
+Malaysia,2016,129
+Malaysia,2017,195
+Malaysia,2018,111
+Malaysia,2019,135
+Malaysia,2020,121
+Malaysia,2021,48
+Malaysia,2022,32
+Malaysia,2023,25
+Malaysia,2024,21
 Maldives,2016,2
-Maldives,2017,1
+Maldives,2017,3
 Maldives,2021,1
 Mali,2003,1
-Mali,2013,2
+Mali,2013,4
 Mali,2014,1
 Mali,2015,1
 Mali,2022,1
-Malta,2004,1
-Malta,2005,1
-Malta,2007,1
-Malta,2008,2
-Malta,2009,1
-Malta,2011,5
-Malta,2012,2
-Malta,2013,15
-Malta,2014,15
-Malta,2015,1
-Malta,2016,1
-Malta,2018,1
-Malta,2020,1
-Malta,2021,1
-Malta,2023,6
+Malta,2004,2
+Malta,2005,3
+Malta,2007,3
+Malta,2008,3
+Malta,2009,2
+Malta,2011,9
+Malta,2012,4
+Malta,2013,30
+Malta,2014,36
+Malta,2015,2
+Malta,2016,2
+Malta,2018,3
+Malta,2020,2
+Malta,2021,2
+Malta,2023,8
 Martinique,2013,1
-Martinique,2014,2
-Mauritania,2014,1
-Mauritius,2011,1
+Martinique,2014,3
+Mauritania,2014,4
+Mauritius,2011,2
 Mauritius,2015,1
 Mauritius,2021,1
-Mauritius,2022,2
-Mauritius,2023,8
+Mauritius,2022,3
+Mauritius,2023,10
 Mauritius,2024,1
-Mayotte,2009,2
+Mayotte,2009,4
 Mayotte,2018,3
 Mayotte,2019,1
-Mayotte,2023,1
-Mexico,2010,1
-Mexico,2012,2
-Mexico,2013,67
-Mexico,2014,77
-Mexico,2015,36
-Mexico,2016,166
-Mexico,2017,165
-Mexico,2018,186
-Mexico,2019,29
-Mexico,2020,56
-Mexico,2021,42
-Mexico,2022,15
-Mexico,2023,18
-Mexico,2024,3
-Mongolia,2003,1
+Mayotte,2023,2
+Mexico,2010,2
+Mexico,2012,3
+Mexico,2013,114
+Mexico,2014,143
+Mexico,2015,48
+Mexico,2016,252
+Mexico,2017,218
+Mexico,2018,355
+Mexico,2019,50
+Mexico,2020,87
+Mexico,2021,50
+Mexico,2022,16
+Mexico,2023,22
+Mexico,2024,4
+Mongolia,2003,4
 Mongolia,2006,1
 Mongolia,2009,1
 Mongolia,2010,1
 Mongolia,2014,1
 Mongolia,2019,2
 Mongolia,2020,4
-Montenegro,2006,1
+Montenegro,2006,2
 Montenegro,2024,1
 Morocco,2015,1
 Morocco,2017,2
-Morocco,2018,4
+Morocco,2018,9
 Morocco,2019,1
 Morocco,2020,1
 Morocco,2023,1
 Morocco,2024,1
 Mozambique,1996,1
-Mozambique,2006,2
-Mozambique,2007,2
-Mozambique,2009,2
+Mozambique,2006,3
+Mozambique,2007,4
+Mozambique,2009,3
 Mozambique,2011,1
-Mozambique,2012,4
-Mozambique,2013,6
-Mozambique,2014,17
-Mozambique,2015,18
-Mozambique,2016,16
-Mozambique,2017,22
-Mozambique,2018,41
-Mozambique,2019,12
-Mozambique,2020,26
-Mozambique,2021,19
-Mozambique,2022,11
-Mozambique,2023,8
-Mozambique,2024,4
-Multiple,2011,1
-Multiple,2022,1
+Mozambique,2012,11
+Mozambique,2013,11
+Mozambique,2014,22
+Mozambique,2015,27
+Mozambique,2016,33
+Mozambique,2017,47
+Mozambique,2018,73
+Mozambique,2019,15
+Mozambique,2020,60
+Mozambique,2021,48
+Mozambique,2022,30
+Mozambique,2023,10
+Mozambique,2024,5
+Multiple,2011,16
 Myanmar,2010,4
 Myanmar,2011,2
-Myanmar,2012,1
-Myanmar,2013,26
-Myanmar,2014,23
-Myanmar,2015,2
-Myanmar,2016,6
-Myanmar,2017,14
-Myanmar,2018,7
-Myanmar,2019,47
-Myanmar,2020,50
+Myanmar,2012,2
+Myanmar,2013,35
+Myanmar,2014,29
+Myanmar,2015,3
+Myanmar,2016,14
+Myanmar,2017,20
+Myanmar,2018,10
+Myanmar,2019,62
+Myanmar,2020,62
 Myanmar,2021,3
-Myanmar,2022,160
-Myanmar,2023,161
-Myanmar,2024,178
+Myanmar,2022,236
+Myanmar,2023,251
+Myanmar,2024,255
 Namibia,1999,1
 Namibia,2001,1
 Namibia,2002,2
 Namibia,2004,1
 Namibia,2010,1
-Namibia,2011,2
-Namibia,2012,2
+Namibia,2011,3
+Namibia,2012,5
 Namibia,2013,2
-Namibia,2014,14
-Namibia,2015,15
-Namibia,2016,18
-Namibia,2017,19
-Namibia,2018,18
-Namibia,2019,73
-Namibia,2020,113
-Namibia,2021,73
-Namibia,2022,19
-Namibia,2023,28
-Namibia,2024,14
-Nepal,1997,1
-Nepal,1998,1
+Namibia,2014,23
+Namibia,2015,19
+Namibia,2016,27
+Namibia,2017,37
+Namibia,2018,23
+Namibia,2019,109
+Namibia,2020,134
+Namibia,2021,105
+Namibia,2022,26
+Namibia,2023,41
+Namibia,2024,17
+Nepal,1997,3
+Nepal,1998,2
 Nepal,1999,1
 Nepal,2000,2
-Nepal,2001,2
-Nepal,2003,2
+Nepal,2001,4
+Nepal,2003,4
 Nepal,2004,2
-Nepal,2005,7
+Nepal,2005,13
 Nepal,2006,16
-Nepal,2007,17
-Nepal,2008,16
-Nepal,2009,7
-Nepal,2010,20
-Nepal,2011,33
-Nepal,2012,20
-Nepal,2013,28
-Nepal,2014,27
-Nepal,2015,26
-Nepal,2016,31
-Nepal,2017,22
-Nepal,2018,24
-Nepal,2019,22
-Nepal,2020,50
-Nepal,2021,27
-Nepal,2022,13
-Nepal,2023,20
-Nepal,2024,10
+Nepal,2007,28
+Nepal,2008,20
+Nepal,2009,8
+Nepal,2010,30
+Nepal,2011,47
+Nepal,2012,39
+Nepal,2013,41
+Nepal,2014,35
+Nepal,2015,38
+Nepal,2016,46
+Nepal,2017,34
+Nepal,2018,32
+Nepal,2019,29
+Nepal,2020,61
+Nepal,2021,30
+Nepal,2022,25
+Nepal,2023,24
+Nepal,2024,13
 Netherlands,1996,1
-Netherlands,1997,1
-Netherlands,2001,2
-Netherlands,2005,2
+Netherlands,1997,4
+Netherlands,2001,5
+Netherlands,2005,30
 Netherlands,2007,2
 Netherlands,2008,2
-Netherlands,2009,4
+Netherlands,2009,5
 Netherlands,2010,2
-Netherlands,2011,9
-Netherlands,2012,7
-Netherlands,2013,5
-Netherlands,2014,6
+Netherlands,2011,23
+Netherlands,2012,24
+Netherlands,2013,13
+Netherlands,2014,9
 Netherlands,2015,2
-Netherlands,2016,7
-Netherlands,2017,7
-Netherlands,2018,8
-Netherlands,2019,4
-Netherlands,2020,7
-Netherlands,2021,3
+Netherlands,2016,21
+Netherlands,2017,45
+Netherlands,2018,20
+Netherlands,2019,14
+Netherlands,2020,11
+Netherlands,2021,4
 Netherlands,2022,2
-Netherlands,2023,2
-New Caledonia,2017,1
+Netherlands,2023,4
+New Caledonia,2017,2
 New Caledonia,2023,1
-New Zealand,2001,1
-New Zealand,2004,1
+New Zealand,2001,3
+New Zealand,2004,2
 New Zealand,2007,4
-New Zealand,2010,3
-New Zealand,2011,3
-New Zealand,2012,1
-New Zealand,2014,1
-New Zealand,2018,3
-New Zealand,2019,2
-New Zealand,2020,1
-New Zealand,2022,1
-Nicaragua,2013,1
-Nicaragua,2018,2
+New Zealand,2010,5
+New Zealand,2011,18
+New Zealand,2012,2
+New Zealand,2014,2
+New Zealand,2018,5
+New Zealand,2019,3
+New Zealand,2020,2
+New Zealand,2022,2
+Nicaragua,2013,2
+Nicaragua,2018,5
 Nicaragua,2019,1
 Nicaragua,2024,2
 Niger,1998,1
-Niger,2014,1
-Niger,2019,3
+Niger,2014,2
+Niger,2019,4
 Niger,2020,1
 Nigeria,2010,4
 Nigeria,2011,7
 Nigeria,2012,3
-Nigeria,2013,6
+Nigeria,2013,17
 Nigeria,2014,10
 Nigeria,2015,3
 Nigeria,2016,1
-Nigeria,2017,4
-Nigeria,2018,15
-Nigeria,2019,7
+Nigeria,2017,9
+Nigeria,2018,17
+Nigeria,2019,8
 Nigeria,2020,7
-Nigeria,2021,16
-Nigeria,2022,14
-Nigeria,2023,18
-Nigeria,2024,8
+Nigeria,2021,20
+Nigeria,2022,15
+Nigeria,2023,36
+Nigeria,2024,12
 Northern Mariana Islands,2008,1
-Northern Mariana Islands,2010,1
+Northern Mariana Islands,2010,2
 Northern Mariana Islands,2011,2
 Norway,2000,1
 Norway,2001,1
-Norway,2009,1
-Oman,2014,1
+Norway,2009,2
+Oman,2014,4
 Oman,2016,1
-Oman,2018,1
-Oman,2022,6
-Pakistan,2001,3
+Oman,2018,2
+Oman,2022,9
+Pakistan,2001,6
 Pakistan,2002,1
-Pakistan,2007,7
-Pakistan,2009,3
-Pakistan,2010,4
-Pakistan,2011,6
-Pakistan,2012,4
-Pakistan,2013,9
-Pakistan,2014,6
-Pakistan,2015,23
-Pakistan,2016,21
-Pakistan,2017,12
-Pakistan,2018,7
-Pakistan,2019,14
-Pakistan,2020,29
-Pakistan,2021,11
-Pakistan,2022,19
-Pakistan,2023,19
-Pakistan,2024,19
-Palau,2020,1
+Pakistan,2007,21
+Pakistan,2009,5
+Pakistan,2010,8
+Pakistan,2011,28
+Pakistan,2012,17
+Pakistan,2013,14
+Pakistan,2014,10
+Pakistan,2015,51
+Pakistan,2016,48
+Pakistan,2017,27
+Pakistan,2018,15
+Pakistan,2019,22
+Pakistan,2020,43
+Pakistan,2021,18
+Pakistan,2022,32
+Pakistan,2023,33
+Pakistan,2024,32
+Palau,2020,2
 Panama,2012,1
 Panama,2013,2
-Panama,2014,1
-Panama,2016,1
+Panama,2014,2
+Panama,2016,4
 Panama,2017,1
-Panama,2018,1
-Panama,2019,5
+Panama,2018,2
+Panama,2019,7
 Panama,2020,7
-Panama,2021,16
-Panama,2022,11
-Panama,2023,10
+Panama,2021,22
+Panama,2022,14
+Panama,2023,14
 Papua New Guinea,2011,1
-Paraguay,2009,2
-Paraguay,2010,2
+Paraguay,2009,7
+Paraguay,2010,3
 Paraguay,2013,2
 Paraguay,2014,1
 Paraguay,2018,2
-Paraguay,2023,2
-Peru,2011,1
+Paraguay,2023,3
+Peru,2011,2
 Peru,2012,1
-Peru,2013,6
-Peru,2014,18
-Peru,2015,3
-Peru,2016,17
-Peru,2017,13
-Peru,2018,39
-Peru,2019,53
-Peru,2020,25
-Peru,2021,28
-Peru,2022,20
-Peru,2023,20
-Peru,2024,4
-Philippines,1998,1
+Peru,2013,7
+Peru,2014,22
+Peru,2015,9
+Peru,2016,41
+Peru,2017,37
+Peru,2018,64
+Peru,2019,105
+Peru,2020,34
+Peru,2021,41
+Peru,2022,41
+Peru,2023,37
+Peru,2024,5
+Philippines,1998,2
 Philippines,2005,3
-Philippines,2007,3
+Philippines,2007,5
 Philippines,2008,3
-Philippines,2009,2
-Philippines,2010,8
-Philippines,2011,54
-Philippines,2012,25
-Philippines,2013,22
-Philippines,2014,34
-Philippines,2015,18
-Philippines,2016,21
-Philippines,2017,36
-Philippines,2018,48
-Philippines,2019,68
-Philippines,2020,93
-Philippines,2021,88
-Philippines,2022,69
-Philippines,2023,350
-Philippines,2024,141
+Philippines,2009,19
+Philippines,2010,11
+Philippines,2011,68
+Philippines,2012,75
+Philippines,2013,26
+Philippines,2014,51
+Philippines,2015,22
+Philippines,2016,35
+Philippines,2017,50
+Philippines,2018,82
+Philippines,2019,153
+Philippines,2020,120
+Philippines,2021,115
+Philippines,2022,92
+Philippines,2023,385
+Philippines,2024,152
 Poland,1998,15
-Poland,1999,52
-Poland,2000,106
-Poland,2001,155
-Poland,2002,135
-Poland,2003,169
-Poland,2004,129
-Poland,2005,193
-Poland,2006,215
-Poland,2007,204
-Poland,2008,169
-Poland,2009,241
-Poland,2010,179
-Poland,2011,127
-Poland,2012,123
-Poland,2013,113
-Poland,2014,83
-Poland,2015,101
+Poland,1999,107
+Poland,2000,217
+Poland,2001,330
+Poland,2002,269
+Poland,2003,319
+Poland,2004,260
+Poland,2005,354
+Poland,2006,418
+Poland,2007,388
+Poland,2008,333
+Poland,2009,471
+Poland,2010,358
+Poland,2011,253
+Poland,2012,220
+Poland,2013,219
+Poland,2014,172
+Poland,2015,199
 Poland,2017,1
-Poland,2018,84
-Poland,2019,1
-Poland,2020,2
-Poland,2022,2
-Poland,2023,5
+Poland,2018,166
+Poland,2019,5
+Poland,2020,5
+Poland,2022,6
+Poland,2023,8
 Portugal,1999,1
-Portugal,2000,2
-Portugal,2011,3
-Portugal,2013,3
+Portugal,2000,3
+Portugal,2011,5
+Portugal,2013,8
 Portugal,2014,2
-Portugal,2015,2
+Portugal,2015,4
 Portugal,2016,1
-Portugal,2017,1
-Portugal,2018,4
-Portugal,2019,5
+Portugal,2017,2
+Portugal,2018,15
+Portugal,2019,8
 Portugal,2020,1
 Portugal,2021,1
-Portugal,2022,1
-Portugal,2023,2
-Portugal,2024,4
-Puerto Rico,2013,1
-Puerto Rico,2017,1
-Puerto Rico,2019,1
-Puerto Rico,2024,2
+Portugal,2022,2
+Portugal,2023,3
+Portugal,2024,7
+Puerto Rico,2013,2
+Puerto Rico,2017,3
+Puerto Rico,2019,2
+Puerto Rico,2024,7
 Qatar,2000,1
-Qatar,2014,1
+Qatar,2014,4
 Qatar,2016,1
-Qatar,2020,1
-Qatar,2021,1
-Qatar,2022,2
-Qatar,2023,2
-Qatar,2024,2
+Qatar,2020,2
+Qatar,2021,3
+Qatar,2022,4
+Qatar,2023,6
+Qatar,2024,5
 Reunion,2014,2
-Reunion,2016,1
-Reunion,2018,1
-Reunion,2020,3
-Reunion,2021,5
-Reunion,2022,2
+Reunion,2016,3
+Reunion,2018,3
+Reunion,2020,4
+Reunion,2021,8
+Reunion,2022,4
 Reunion,2023,1
 Reunion,2024,3
 Romania,2009,1
@@ -1369,44 +1368,44 @@ Romania,2010,1
 Romania,2013,1
 Romania,2014,1
 Romania,2020,3
-Romania,2024,2
+Romania,2024,4
 Russian Federation,1999,1
-Russian Federation,2000,1
-Russian Federation,2002,1
-Russian Federation,2004,2
+Russian Federation,2000,2
+Russian Federation,2002,2
+Russian Federation,2004,3
 Russian Federation,2006,1
-Russian Federation,2007,6
-Russian Federation,2008,2
+Russian Federation,2007,8
+Russian Federation,2008,3
 Russian Federation,2009,1
-Russian Federation,2010,12
-Russian Federation,2011,3
-Russian Federation,2012,9
-Russian Federation,2013,15
-Russian Federation,2014,8
-Russian Federation,2015,4
-Russian Federation,2016,6
-Russian Federation,2017,15
-Russian Federation,2018,27
-Russian Federation,2019,8
-Russian Federation,2020,25
-Russian Federation,2021,10
-Russian Federation,2022,13
-Russian Federation,2023,34
-Russian Federation,2024,8
+Russian Federation,2010,19
+Russian Federation,2011,4
+Russian Federation,2012,15
+Russian Federation,2013,23
+Russian Federation,2014,9
+Russian Federation,2015,5
+Russian Federation,2016,10
+Russian Federation,2017,37
+Russian Federation,2018,56
+Russian Federation,2019,13
+Russian Federation,2020,42
+Russian Federation,2021,11
+Russian Federation,2022,21
+Russian Federation,2023,72
+Russian Federation,2024,9
 Rwanda,2003,1
-Rwanda,2011,2
-Rwanda,2014,2
-Rwanda,2016,2
-Rwanda,2018,1
-Rwanda,2019,1
-Rwanda,2021,1
+Rwanda,2011,4
+Rwanda,2014,4
+Rwanda,2016,4
+Rwanda,2018,2
+Rwanda,2019,4
+Rwanda,2021,4
 Rwanda,2023,2
 Saint Barthelemy,2020,1
-Saint Vincent and The Grenadines,2018,1
+Saint Vincent and The Grenadines,2018,2
 Sao Tome and Principe,2016,1
 Sao Tome and Principe,2017,1
 Sao Tome and Principe,2018,1
-Saudi Arabia,2010,1
+Saudi Arabia,2010,2
 Saudi Arabia,2011,2
 Saudi Arabia,2012,3
 Saudi Arabia,2013,2
@@ -1415,23 +1414,23 @@ Saudi Arabia,2019,1
 Saudi Arabia,2020,2
 Saudi Arabia,2022,1
 Saudi Arabia,2023,1
-Saudi Arabia,2024,1
-Senegal,2014,4
-Senegal,2015,4
+Saudi Arabia,2024,2
+Senegal,2014,24
+Senegal,2015,23
 Senegal,2016,10
-Senegal,2017,4
-Senegal,2018,4
-Senegal,2019,15
-Senegal,2020,13
-Senegal,2021,11
-Senegal,2022,13
-Senegal,2023,5
+Senegal,2017,12
+Senegal,2018,5
+Senegal,2019,22
+Senegal,2020,19
+Senegal,2021,18
+Senegal,2022,18
+Senegal,2023,6
 Senegal,2024,2
-"Serbia, Republic of",2005,1
+"Serbia, Republic of",2005,2
 "Serbia, Republic of",2007,1
-"Serbia, Republic of",2010,2
+"Serbia, Republic of",2010,3
 "Serbia, Republic of",2011,2
-"Serbia, Republic of",2012,2
+"Serbia, Republic of",2012,4
 "Serbia, Republic of",2013,3
 "Serbia, Republic of",2014,1
 "Serbia, Republic of",2021,1
@@ -1448,265 +1447,265 @@ Sierra Leone,2020,1
 Sierra Leone,2021,2
 Sierra Leone,2023,6
 Singapore,2001,1
-Singapore,2002,1
-Singapore,2006,5
-Singapore,2007,14
-Singapore,2009,1
-Singapore,2010,3
-Singapore,2011,2
-Singapore,2012,1
-Singapore,2013,4
-Singapore,2014,9
-Singapore,2015,5
-Singapore,2016,5
-Singapore,2017,4
-Singapore,2018,7
-Singapore,2019,9
-Singapore,2020,3
-Singapore,2021,4
-Singapore,2022,3
-Singapore,2024,4
+Singapore,2002,7
+Singapore,2006,10
+Singapore,2007,20
+Singapore,2009,2
+Singapore,2010,24
+Singapore,2011,3
+Singapore,2012,2
+Singapore,2013,5
+Singapore,2014,27
+Singapore,2015,18
+Singapore,2016,10
+Singapore,2017,11
+Singapore,2018,46
+Singapore,2019,24
+Singapore,2020,7
+Singapore,2021,10
+Singapore,2022,8
+Singapore,2024,14
 Slovakia,1999,1
-Slovakia,2002,1
+Slovakia,2002,5
 Slovakia,2003,1
-Slovakia,2011,1
-Slovakia,2012,1
-Slovakia,2021,1
+Slovakia,2011,2
+Slovakia,2012,4
+Slovakia,2021,2
 Slovakia,2023,1
-Slovakia,2024,1
-Slovenia,2002,1
-Slovenia,2013,12
-Slovenia,2014,7
+Slovakia,2024,2
+Slovenia,2002,2
+Slovenia,2013,25
+Slovenia,2014,14
 Solomon Islands,2017,1
-Somalia,2010,2
+Somalia,2010,3
 Somalia,2011,2
 Somalia,2012,5
 Somalia,2013,1
-Somalia,2014,5
+Somalia,2014,6
 Somalia,2016,1
-Somalia,2017,4
-Somalia,2018,5
-Somalia,2019,11
-Somalia,2020,2
+Somalia,2017,5
+Somalia,2018,8
+Somalia,2019,13
+Somalia,2020,3
 Somalia,2023,1
-South Africa,1986,1
-South Africa,1997,1
+South Africa,1986,2
+South Africa,1997,3
 South Africa,1999,1
 South Africa,2000,2
-South Africa,2001,2
-South Africa,2002,2
-South Africa,2003,4
-South Africa,2004,7
+South Africa,2001,4
+South Africa,2002,3
+South Africa,2003,5
+South Africa,2004,14
 South Africa,2005,3
-South Africa,2006,16
-South Africa,2007,8
-South Africa,2008,9
-South Africa,2009,23
-South Africa,2010,49
-South Africa,2011,82
-South Africa,2012,48
-South Africa,2013,92
-South Africa,2014,147
-South Africa,2015,102
-South Africa,2016,134
-South Africa,2017,125
-South Africa,2018,163
-South Africa,2019,141
-South Africa,2020,124
-South Africa,2021,97
-South Africa,2022,51
-South Africa,2023,103
-South Africa,2024,45
+South Africa,2006,30
+South Africa,2007,17
+South Africa,2008,29
+South Africa,2009,39
+South Africa,2010,91
+South Africa,2011,136
+South Africa,2012,86
+South Africa,2013,139
+South Africa,2014,241
+South Africa,2015,156
+South Africa,2016,214
+South Africa,2017,210
+South Africa,2018,272
+South Africa,2019,277
+South Africa,2020,187
+South Africa,2021,160
+South Africa,2022,95
+South Africa,2023,161
+South Africa,2024,83
 South Sudan,2011,1
 South Sudan,2012,1
 South Sudan,2014,2
 South Sudan,2015,3
-South Sudan,2016,2
-South Sudan,2018,1
-South Sudan,2020,3
+South Sudan,2016,10
+South Sudan,2018,3
+South Sudan,2020,5
 South Sudan,2021,1
 South Sudan,2023,3
-Spain,2003,1
+Spain,2003,2
 Spain,2004,1
-Spain,2010,3
+Spain,2010,12
 Spain,2011,4
-Spain,2012,3
-Spain,2013,11
-Spain,2014,9
-Spain,2015,2
-Spain,2016,8
-Spain,2017,16
-Spain,2018,22
-Spain,2019,76
-Spain,2020,17
+Spain,2012,7
+Spain,2013,15
+Spain,2014,12
+Spain,2015,5
+Spain,2016,21
+Spain,2017,29
+Spain,2018,31
+Spain,2019,84
+Spain,2020,34
 Spain,2021,5
-Spain,2022,4
-Spain,2023,6
-Spain,2024,6
+Spain,2022,7
+Spain,2023,10
+Spain,2024,8
 Sri Lanka,1999,2
 Sri Lanka,2008,1
 Sri Lanka,2009,1
-Sri Lanka,2011,4
-Sri Lanka,2012,6
+Sri Lanka,2011,9
+Sri Lanka,2012,31
 Sri Lanka,2013,2
-Sri Lanka,2014,1
-Sri Lanka,2015,4
-Sri Lanka,2016,29
-Sri Lanka,2017,27
-Sri Lanka,2018,33
-Sri Lanka,2019,40
-Sri Lanka,2020,105
-Sri Lanka,2021,50
-Sri Lanka,2022,43
-Sri Lanka,2023,68
-Sri Lanka,2024,6
+Sri Lanka,2014,5
+Sri Lanka,2015,6
+Sri Lanka,2016,40
+Sri Lanka,2017,39
+Sri Lanka,2018,39
+Sri Lanka,2019,58
+Sri Lanka,2020,157
+Sri Lanka,2021,63
+Sri Lanka,2022,55
+Sri Lanka,2023,80
+Sri Lanka,2024,8
 Sudan,2005,1
 Sudan,2012,1
 Sudan,2018,1
 Sudan,2023,2
 Suriname,2013,1
 Suriname,2018,1
-Suriname,2021,1
-Suriname,2023,2
-Sweden,1996,2
+Suriname,2021,2
+Suriname,2023,4
+Sweden,1996,4
 Sweden,2005,1
 Sweden,2011,1
 Sweden,2012,1
-Sweden,2013,22
-Sweden,2014,21
+Sweden,2013,43
+Sweden,2014,40
 Sweden,2015,1
 Sweden,2016,1
 Sweden,2018,1
-Sweden,2021,3
-Switzerland,2001,3
-Switzerland,2002,2
-Switzerland,2003,8
-Switzerland,2008,2
-Switzerland,2010,1
-Switzerland,2011,1
+Sweden,2021,6
+Switzerland,2001,8
+Switzerland,2002,3
+Switzerland,2003,30
+Switzerland,2008,3
+Switzerland,2010,2
+Switzerland,2011,2
 Switzerland,2012,1
-Switzerland,2013,2
-Switzerland,2014,2
-Switzerland,2015,2
+Switzerland,2013,4
+Switzerland,2014,6
+Switzerland,2015,6
 Switzerland,2016,2
-Switzerland,2018,1
+Switzerland,2018,3
 Switzerland,2019,2
-Switzerland,2020,4
+Switzerland,2020,6
 Switzerland,2023,2
 Taiwan Province of China,1996,1
 Taiwan Province of China,1998,1
-Taiwan Province of China,1999,1
-Taiwan Province of China,2000,2
-Taiwan Province of China,2002,1
-Taiwan Province of China,2006,2
-Taiwan Province of China,2007,3
-Taiwan Province of China,2008,1
-Taiwan Province of China,2009,3
+Taiwan Province of China,1999,2
+Taiwan Province of China,2000,6
+Taiwan Province of China,2002,2
+Taiwan Province of China,2006,10
+Taiwan Province of China,2007,7
+Taiwan Province of China,2008,2
+Taiwan Province of China,2009,5
 Taiwan Province of China,2010,2
-Taiwan Province of China,2011,3
-Taiwan Province of China,2012,5
-Taiwan Province of China,2013,3
+Taiwan Province of China,2011,6
+Taiwan Province of China,2012,7
+Taiwan Province of China,2013,6
 Taiwan Province of China,2014,3
-Taiwan Province of China,2015,5
-Taiwan Province of China,2016,6
-Taiwan Province of China,2017,7
-Taiwan Province of China,2018,7
-Taiwan Province of China,2019,5
-Taiwan Province of China,2020,5
-Taiwan Province of China,2021,4
-Taiwan Province of China,2022,5
-Taiwan Province of China,2023,3
-Taiwan Province of China,2024,3
+Taiwan Province of China,2015,8
+Taiwan Province of China,2016,18
+Taiwan Province of China,2017,23
+Taiwan Province of China,2018,15
+Taiwan Province of China,2019,8
+Taiwan Province of China,2020,12
+Taiwan Province of China,2021,9
+Taiwan Province of China,2022,6
+Taiwan Province of China,2023,8
+Taiwan Province of China,2024,6
 "Tanzania, United Republic of",1995,1
 "Tanzania, United Republic of",1999,1
 "Tanzania, United Republic of",2000,2
-"Tanzania, United Republic of",2001,3
-"Tanzania, United Republic of",2002,6
+"Tanzania, United Republic of",2001,4
+"Tanzania, United Republic of",2002,7
 "Tanzania, United Republic of",2003,5
 "Tanzania, United Republic of",2004,2
-"Tanzania, United Republic of",2005,4
-"Tanzania, United Republic of",2006,7
+"Tanzania, United Republic of",2005,5
+"Tanzania, United Republic of",2006,10
 "Tanzania, United Republic of",2007,2
-"Tanzania, United Republic of",2008,6
+"Tanzania, United Republic of",2008,8
 "Tanzania, United Republic of",2009,10
-"Tanzania, United Republic of",2010,29
-"Tanzania, United Republic of",2011,35
-"Tanzania, United Republic of",2012,36
-"Tanzania, United Republic of",2013,54
-"Tanzania, United Republic of",2014,62
-"Tanzania, United Republic of",2015,83
-"Tanzania, United Republic of",2016,170
-"Tanzania, United Republic of",2017,207
-"Tanzania, United Republic of",2018,86
-"Tanzania, United Republic of",2019,35
-"Tanzania, United Republic of",2020,31
-"Tanzania, United Republic of",2021,18
-"Tanzania, United Republic of",2022,9
-"Tanzania, United Republic of",2023,23
-"Tanzania, United Republic of",2024,5
-Thailand,1989,1
-Thailand,1996,1
-Thailand,1997,1
+"Tanzania, United Republic of",2010,38
+"Tanzania, United Republic of",2011,39
+"Tanzania, United Republic of",2012,63
+"Tanzania, United Republic of",2013,91
+"Tanzania, United Republic of",2014,110
+"Tanzania, United Republic of",2015,145
+"Tanzania, United Republic of",2016,271
+"Tanzania, United Republic of",2017,351
+"Tanzania, United Republic of",2018,140
+"Tanzania, United Republic of",2019,139
+"Tanzania, United Republic of",2020,52
+"Tanzania, United Republic of",2021,27
+"Tanzania, United Republic of",2022,13
+"Tanzania, United Republic of",2023,28
+"Tanzania, United Republic of",2024,8
+Thailand,1989,4
+Thailand,1996,2
+Thailand,1997,2
 Thailand,1998,1
 Thailand,1999,1
-Thailand,2000,1
-Thailand,2001,1
-Thailand,2002,7
-Thailand,2003,1
+Thailand,2000,2
+Thailand,2001,2
+Thailand,2002,9
+Thailand,2003,5
 Thailand,2004,4
-Thailand,2005,1
-Thailand,2006,4
-Thailand,2007,5
-Thailand,2008,7
-Thailand,2009,21
-Thailand,2010,36
-Thailand,2011,111
-Thailand,2012,162
-Thailand,2013,94
-Thailand,2014,59
-Thailand,2015,26
-Thailand,2016,59
-Thailand,2017,95
-Thailand,2018,59
-Thailand,2019,31
-Thailand,2020,76
-Thailand,2021,54
-Thailand,2022,30
-Thailand,2023,35
-Thailand,2024,44
-Togo,2013,2
-Togo,2014,6
-Togo,2015,19
-Togo,2016,9
-Togo,2017,5
+Thailand,2005,4
+Thailand,2006,11
+Thailand,2007,12
+Thailand,2008,17
+Thailand,2009,39
+Thailand,2010,73
+Thailand,2011,222
+Thailand,2012,348
+Thailand,2013,179
+Thailand,2014,123
+Thailand,2015,79
+Thailand,2016,88
+Thailand,2017,204
+Thailand,2018,123
+Thailand,2019,63
+Thailand,2020,91
+Thailand,2021,82
+Thailand,2022,50
+Thailand,2023,74
+Thailand,2024,93
+Togo,2013,7
+Togo,2014,19
+Togo,2015,21
+Togo,2016,15
+Togo,2017,6
 Togo,2018,3
-Togo,2019,1
-Togo,2020,3
-Togo,2021,5
-Togo,2022,7
-Togo,2023,3
-Togo,2024,5
+Togo,2019,2
+Togo,2020,8
+Togo,2021,7
+Togo,2022,22
+Togo,2023,9
+Togo,2024,10
 Trinidad and Tobago,2014,3
-Trinidad and Tobago,2019,1
-Trinidad and Tobago,2020,5
+Trinidad and Tobago,2019,3
+Trinidad and Tobago,2020,8
 Trinidad and Tobago,2021,1
 Trinidad and Tobago,2022,1
 Trinidad and Tobago,2023,2
-Trinidad and Tobago,2024,2
+Trinidad and Tobago,2024,3
 Tunisia,2014,1
 Tunisia,2018,1
-Tunisia,2019,2
-Turkey,2011,1
-Turkey,2012,2
-Turkey,2013,45
-Turkey,2014,55
+Tunisia,2019,7
+Turkey,2011,2
+Turkey,2012,4
+Turkey,2013,47
+Turkey,2014,68
 Turkey,2015,1
 Turkey,2016,1
-Turkey,2017,3
-Turkey,2018,5
-Turkey,2019,7
-Turkey,2020,2
-Turkey,2024,6
+Turkey,2017,19
+Turkey,2018,14
+Turkey,2019,16
+Turkey,2020,5
+Turkey,2024,20
 Uganda,1999,1
 Uganda,2000,4
 Uganda,2002,1
@@ -1714,215 +1713,215 @@ Uganda,2003,2
 Uganda,2005,1
 Uganda,2006,2
 Uganda,2009,1
-Uganda,2010,3
-Uganda,2011,7
-Uganda,2012,4
-Uganda,2013,9
-Uganda,2014,3
-Uganda,2015,22
-Uganda,2016,35
-Uganda,2017,60
-Uganda,2018,32
-Uganda,2019,69
-Uganda,2020,34
-Uganda,2021,72
-Uganda,2022,57
-Uganda,2023,27
-Uganda,2024,25
+Uganda,2010,6
+Uganda,2011,8
+Uganda,2012,41
+Uganda,2013,19
+Uganda,2014,6
+Uganda,2015,39
+Uganda,2016,46
+Uganda,2017,92
+Uganda,2018,60
+Uganda,2019,142
+Uganda,2020,51
+Uganda,2021,111
+Uganda,2022,127
+Uganda,2023,42
+Uganda,2024,35
 Ukraine,2001,1
 Ukraine,2015,2
-Ukraine,2016,5
-Ukraine,2017,2
+Ukraine,2016,7
+Ukraine,2017,3
 Ukraine,2018,1
-Ukraine,2019,2
-Ukraine,2020,8
-Ukraine,2021,3
+Ukraine,2019,3
+Ukraine,2020,9
+Ukraine,2021,4
 Ukraine,2022,4
-Ukraine,2023,7
-Ukraine,2024,2
-United Arab Emirates,1998,3
-United Arab Emirates,1999,7
-United Arab Emirates,2000,1
-United Arab Emirates,2001,2
+Ukraine,2023,9
+Ukraine,2024,5
+United Arab Emirates,1998,6
+United Arab Emirates,1999,12
+United Arab Emirates,2000,2
+United Arab Emirates,2001,4
 United Arab Emirates,2002,1
-United Arab Emirates,2003,1
-United Arab Emirates,2005,6
-United Arab Emirates,2006,6
-United Arab Emirates,2007,75
-United Arab Emirates,2008,61
-United Arab Emirates,2009,65
-United Arab Emirates,2010,38
-United Arab Emirates,2011,46
-United Arab Emirates,2012,107
-United Arab Emirates,2013,2
-United Arab Emirates,2014,3
-United Arab Emirates,2015,3
+United Arab Emirates,2003,3
+United Arab Emirates,2005,10
+United Arab Emirates,2006,10
+United Arab Emirates,2007,131
+United Arab Emirates,2008,93
+United Arab Emirates,2009,111
+United Arab Emirates,2010,56
+United Arab Emirates,2011,81
+United Arab Emirates,2012,180
+United Arab Emirates,2013,4
+United Arab Emirates,2014,5
+United Arab Emirates,2015,7
 United Arab Emirates,2016,2
 United Arab Emirates,2017,1
-United Arab Emirates,2018,2
+United Arab Emirates,2018,3
 United Arab Emirates,2019,1
 United Arab Emirates,2020,1
 United Arab Emirates,2021,1
 United Arab Emirates,2023,5
-United Kingdom of Great Britain and Northern Ireland,1983,3
-United Kingdom of Great Britain and Northern Ireland,1987,2
+United Kingdom of Great Britain and Northern Ireland,1983,4
+United Kingdom of Great Britain and Northern Ireland,1987,213
 United Kingdom of Great Britain and Northern Ireland,1991,1
-United Kingdom of Great Britain and Northern Ireland,1993,1
-United Kingdom of Great Britain and Northern Ireland,1995,2
-United Kingdom of Great Britain and Northern Ireland,1996,4
-United Kingdom of Great Britain and Northern Ireland,1997,4
-United Kingdom of Great Britain and Northern Ireland,1998,6
-United Kingdom of Great Britain and Northern Ireland,1999,3
-United Kingdom of Great Britain and Northern Ireland,2000,11
-United Kingdom of Great Britain and Northern Ireland,2001,11
-United Kingdom of Great Britain and Northern Ireland,2002,8
-United Kingdom of Great Britain and Northern Ireland,2003,7
-United Kingdom of Great Britain and Northern Ireland,2004,4
-United Kingdom of Great Britain and Northern Ireland,2005,7
-United Kingdom of Great Britain and Northern Ireland,2006,2
+United Kingdom of Great Britain and Northern Ireland,1993,15
+United Kingdom of Great Britain and Northern Ireland,1995,3
+United Kingdom of Great Britain and Northern Ireland,1996,7
+United Kingdom of Great Britain and Northern Ireland,1997,6
+United Kingdom of Great Britain and Northern Ireland,1998,7
+United Kingdom of Great Britain and Northern Ireland,1999,4
+United Kingdom of Great Britain and Northern Ireland,2000,21
+United Kingdom of Great Britain and Northern Ireland,2001,14
+United Kingdom of Great Britain and Northern Ireland,2002,15
+United Kingdom of Great Britain and Northern Ireland,2003,19
+United Kingdom of Great Britain and Northern Ireland,2004,10
+United Kingdom of Great Britain and Northern Ireland,2005,14
+United Kingdom of Great Britain and Northern Ireland,2006,5
 United Kingdom of Great Britain and Northern Ireland,2007,4
-United Kingdom of Great Britain and Northern Ireland,2008,4
-United Kingdom of Great Britain and Northern Ireland,2009,18
-United Kingdom of Great Britain and Northern Ireland,2010,14
-United Kingdom of Great Britain and Northern Ireland,2011,25
-United Kingdom of Great Britain and Northern Ireland,2012,18
-United Kingdom of Great Britain and Northern Ireland,2013,11
-United Kingdom of Great Britain and Northern Ireland,2014,17
-United Kingdom of Great Britain and Northern Ireland,2015,21
-United Kingdom of Great Britain and Northern Ireland,2016,19
-United Kingdom of Great Britain and Northern Ireland,2017,18
-United Kingdom of Great Britain and Northern Ireland,2018,29
-United Kingdom of Great Britain and Northern Ireland,2019,12
-United Kingdom of Great Britain and Northern Ireland,2020,7
-United Kingdom of Great Britain and Northern Ireland,2021,5
+United Kingdom of Great Britain and Northern Ireland,2008,6
+United Kingdom of Great Britain and Northern Ireland,2009,42
+United Kingdom of Great Britain and Northern Ireland,2010,24
+United Kingdom of Great Britain and Northern Ireland,2011,54
+United Kingdom of Great Britain and Northern Ireland,2012,51
+United Kingdom of Great Britain and Northern Ireland,2013,27
+United Kingdom of Great Britain and Northern Ireland,2014,45
+United Kingdom of Great Britain and Northern Ireland,2015,39
+United Kingdom of Great Britain and Northern Ireland,2016,33
+United Kingdom of Great Britain and Northern Ireland,2017,31
+United Kingdom of Great Britain and Northern Ireland,2018,65
+United Kingdom of Great Britain and Northern Ireland,2019,27
+United Kingdom of Great Britain and Northern Ireland,2020,12
+United Kingdom of Great Britain and Northern Ireland,2021,6
 United Kingdom of Great Britain and Northern Ireland,2022,2
 United Kingdom of Great Britain and Northern Ireland,2023,2
-United Kingdom of Great Britain and Northern Ireland,2024,3
-United States of America,1982,2
-United States of America,1983,1
-United States of America,1984,4
-United States of America,1985,3
-United States of America,1986,3
-United States of America,1987,3
-United States of America,1988,1
-United States of America,1989,2
-United States of America,1990,2
-United States of America,1991,1
-United States of America,1993,3
-United States of America,1994,3
-United States of America,1995,1
-United States of America,1997,1
-United States of America,1998,4
-United States of America,1999,2
-United States of America,2001,4
-United States of America,2002,3
-United States of America,2003,3
-United States of America,2004,4
-United States of America,2005,3
-United States of America,2006,2
-United States of America,2007,10
-United States of America,2008,2
-United States of America,2009,20
-United States of America,2010,14
-United States of America,2011,29
-United States of America,2012,21
-United States of America,2013,25
-United States of America,2014,31
-United States of America,2015,10
-United States of America,2016,33
-United States of America,2017,58
-United States of America,2018,59
-United States of America,2019,63
-United States of America,2020,61
-United States of America,2021,50
-United States of America,2022,38
-United States of America,2023,50
-United States of America,2024,12
-Uruguay,2014,1
+United Kingdom of Great Britain and Northern Ireland,2024,4
+United States of America,1982,5
+United States of America,1983,2
+United States of America,1984,8
+United States of America,1985,6
+United States of America,1986,6
+United States of America,1987,6
+United States of America,1988,2
+United States of America,1989,4
+United States of America,1990,4
+United States of America,1991,2
+United States of America,1993,7
+United States of America,1994,6
+United States of America,1995,3
+United States of America,1997,2
+United States of America,1998,10
+United States of America,1999,5
+United States of America,2001,45
+United States of America,2002,7
+United States of America,2003,5
+United States of America,2004,8
+United States of America,2005,5
+United States of America,2006,4
+United States of America,2007,18
+United States of America,2008,8
+United States of America,2009,90
+United States of America,2010,26
+United States of America,2011,57
+United States of America,2012,51
+United States of America,2013,115
+United States of America,2014,58
+United States of America,2015,20
+United States of America,2016,79
+United States of America,2017,231
+United States of America,2018,284
+United States of America,2019,218
+United States of America,2020,108
+United States of America,2021,107
+United States of America,2022,94
+United States of America,2023,205
+United States of America,2024,34
+Uruguay,2014,3
 Uruguay,2016,1
 Uruguay,2018,2
 Uruguay,2020,1
-Uzbekistan,2010,1
+Uzbekistan,2010,4
 Uzbekistan,2021,3
 Vanuatu,2000,1
 "Venezuela, Bolivarian Republic of",2013,2
-"Venezuela, Bolivarian Republic of",2014,5
-"Venezuela, Bolivarian Republic of",2020,2
+"Venezuela, Bolivarian Republic of",2014,6
+"Venezuela, Bolivarian Republic of",2020,3
 "Venezuela, Bolivarian Republic of",2023,1
 "Venezuela, Bolivarian Republic of",2024,1
 Viet Nam,1998,1
 Viet Nam,2000,2
-Viet Nam,2003,1
-Viet Nam,2004,1
-Viet Nam,2005,2
-Viet Nam,2006,23
-Viet Nam,2007,9
-Viet Nam,2008,46
-Viet Nam,2009,54
-Viet Nam,2010,84
-Viet Nam,2011,155
-Viet Nam,2012,55
-Viet Nam,2013,124
-Viet Nam,2014,104
-Viet Nam,2015,173
-Viet Nam,2016,236
-Viet Nam,2017,195
-Viet Nam,2018,186
-Viet Nam,2019,201
-Viet Nam,2020,411
-Viet Nam,2021,164
-Viet Nam,2022,141
-Viet Nam,2023,133
-Viet Nam,2024,130
-Virgin Islands (U.S.),2008,1
-Virgin Islands (U.S.),2011,1
-Virgin Islands (U.S.),2013,1
+Viet Nam,2003,2
+Viet Nam,2004,5
+Viet Nam,2005,5
+Viet Nam,2006,39
+Viet Nam,2007,19
+Viet Nam,2008,65
+Viet Nam,2009,67
+Viet Nam,2010,153
+Viet Nam,2011,245
+Viet Nam,2012,100
+Viet Nam,2013,190
+Viet Nam,2014,162
+Viet Nam,2015,254
+Viet Nam,2016,427
+Viet Nam,2017,342
+Viet Nam,2018,307
+Viet Nam,2019,346
+Viet Nam,2020,550
+Viet Nam,2021,227
+Viet Nam,2022,194
+Viet Nam,2023,197
+Viet Nam,2024,150
+Virgin Islands (U.S.),2008,2
+Virgin Islands (U.S.),2011,2
+Virgin Islands (U.S.),2013,3
 Yemen,2013,1
 Yemen,2014,1
 Yemen,2020,1
 Yemen,2021,1
-Yemen,2022,1
+Yemen,2022,2
 Zambia,1986,1
 Zambia,1987,1
 Zambia,2000,2
 Zambia,2003,1
-Zambia,2004,2
+Zambia,2004,3
 Zambia,2005,2
 Zambia,2006,10
-Zambia,2011,3
+Zambia,2011,5
 Zambia,2012,1
-Zambia,2013,4
-Zambia,2014,16
-Zambia,2015,9
-Zambia,2016,11
-Zambia,2017,18
-Zambia,2018,19
-Zambia,2019,22
-Zambia,2020,22
-Zambia,2021,17
-Zambia,2022,22
-Zambia,2023,14
-Zambia,2024,2
+Zambia,2013,7
+Zambia,2014,22
+Zambia,2015,12
+Zambia,2016,16
+Zambia,2017,31
+Zambia,2018,30
+Zambia,2019,29
+Zambia,2020,27
+Zambia,2021,27
+Zambia,2022,23
+Zambia,2023,16
+Zambia,2024,3
 Zimbabwe,1999,2
 Zimbabwe,2002,3
-Zimbabwe,2003,4
-Zimbabwe,2005,6
-Zimbabwe,2006,9
-Zimbabwe,2007,2
+Zimbabwe,2003,7
+Zimbabwe,2005,16
+Zimbabwe,2006,10
+Zimbabwe,2007,3
 Zimbabwe,2008,2
-Zimbabwe,2009,1
-Zimbabwe,2010,8
-Zimbabwe,2011,15
-Zimbabwe,2012,23
-Zimbabwe,2013,18
-Zimbabwe,2014,16
-Zimbabwe,2015,32
-Zimbabwe,2016,23
-Zimbabwe,2017,26
-Zimbabwe,2018,45
-Zimbabwe,2019,41
-Zimbabwe,2020,50
-Zimbabwe,2021,37
-Zimbabwe,2022,45
-Zimbabwe,2023,31
-Zimbabwe,2024,22
+Zimbabwe,2009,2
+Zimbabwe,2010,12
+Zimbabwe,2011,28
+Zimbabwe,2012,34
+Zimbabwe,2013,20
+Zimbabwe,2014,26
+Zimbabwe,2015,59
+Zimbabwe,2016,40
+Zimbabwe,2017,37
+Zimbabwe,2018,73
+Zimbabwe,2019,63
+Zimbabwe,2020,73
+Zimbabwe,2021,49
+Zimbabwe,2022,58
+Zimbabwe,2023,46
+Zimbabwe,2024,33
